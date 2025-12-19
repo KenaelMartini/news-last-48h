@@ -1,0 +1,100 @@
+{
+  "asof_utc": "2025-12-19T16:00:57+00:00",
+  "fx": {
+    "EURUSD": {
+      "price": 1.17101,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 1,
+      "change": null,
+      "change_pct": null
+    },
+    "EURGBP": {
+      "price": 0.87651,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 2,
+      "change": null,
+      "change_pct": null
+    },
+    "EURJPY": {
+      "price": 184.38,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 2,
+      "change": null,
+      "change_pct": null
+    },
+    "EURCHF": {
+      "price": 0.931913,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 3,
+      "change": null,
+      "change_pct": null
+    },
+    "EURAUD": {
+      "price": 1.77193,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 3,
+      "change": null,
+      "change_pct": null
+    },
+    "EURCAD": {
+      "price": 1.61418,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 4,
+      "change": null,
+      "change_pct": null
+    },
+    "EURNZD": {
+      "price": 2.03557,
+      "vendor_ts_utc": "2025-12-19T16:00:56+00:00",
+      "lag_seconds": 5,
+      "change": null,
+      "change_pct": null
+    }
+  },
+  "commodities": {
+    "WTI": {
+      "price": 56.21,
+      "vendor_ts_utc": "2025-12-19T16:00:51+00:00",
+      "lag_seconds": 10,
+      "change": null,
+      "change_pct": null
+    },
+    "Gold": {
+      "price": 4385.25,
+      "vendor_ts_utc": "2025-12-19T16:00:57+00:00",
+      "lag_seconds": 4,
+      "change": null,
+      "change_pct": null
+    }
+  },
+  "rates": {
+    "UST2Y_FUT": {
+      "price": 104.44140625,
+      "vendor_ts_utc": "2025-12-18T23:00:00+00:00",
+      "lag_seconds": 61262,
+      "change": null,
+      "change_pct": null
+    },
+    "UST10Y_FUT": {
+      "price": 112.61,
+      "vendor_ts_utc": "2025-12-19T15:50:58+00:00",
+      "lag_seconds": 604,
+      "change": null,
+      "change_pct": null
+    },
+    "UST30Y_FUT": {
+      "price": 115.56,
+      "vendor_ts_utc": "2025-12-19T15:50:29+00:00",
+      "lag_seconds": 634,
+      "change": null,
+      "change_pct": null
+    },
+    "BUND_FUT": {
+      "price": 127.19,
+      "vendor_ts_utc": "2025-12-19T16:01:00+00:00",
+      "lag_seconds": 3,
+      "change": null,
+      "change_pct": null
+    }
+  }
+}

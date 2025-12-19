@@ -1,0 +1,78 @@
+Analyse Macro–FX (Desk Macro–FX v2)
+
+1) Macro Drivers
+- Inflation
+  - États-Unis: l’inflation de septembre a ralenti, en dessous des attentes (Reuters: CPI cools), renforçant les paris de baisse de taux; la Maison Blanche avertit qu’un prochain rapport d’inflation pourrait ne pas être publié en cas de shutdown. Entreprises US signalent un clivage économique avec des ménages à bas revenus sous pression.
+  - Royaume-Uni: les anticipations d’inflation (Citi/YouGov) atteignent un plus haut depuis avril; l’inflation « tient » et les ventes de détail de septembre ont été soutenues par l’or et l’iPhone.
+  - Japon: l’inflation sous-jacente accélère en septembre et reste au-dessus de la cible de la BOJ.
+  - Zone euro/Inde: PMI de la zone euro en accélération grâce à la demande; l’activité privée indienne ralentit à un plus bas de cinq mois.
+- Taux et politique monétaire
+  - Fed: les rendements Treasuries chutent fortement, le marché « entend » le message de Powell; les données d’inflation « cool » alimentent les paris de cuts; réunion Fed et déluge de résultats mégacaps à venir.
+  - BoE: un policymaker alerte sur une préparation insuffisante de certains acteurs obligataires; le pricing de cuts UK est balayé par l’inflation/anticipations.
+  - BoC: consensus Reuters pour une dernière baisse le 29 octobre; Canada multiplie les signaux de diversification commerciale (tournée Asie, limites d’accès US autos si échec de discussions, plafonds sur importations tarif-free Stellantis/GM).
+  - Asie EM: Corée du Sud maintient ses taux mais ouvre la porte à davantage de baisse; Indonésie en pause et signale plus d’assouplissement.
+  - BOJ: signale des signes de surchauffe du marché actions; inflation au-dessus de cible.
+- Énergie et matières premières
+  - Pétrole: +5% après sanctions US sur Rosneft/Lukoil; l’UE bannit le GNL russe; structure des futures redevient tendue (signal de resserrement de l’offre); OPEP prête à augmenter la production si nécessaire; UBS anticipe une volatilité court terme et voit l’excès d’offre limiter le rally.
+  - Or: flux record vers les fonds or lors de la hausse; correction brutale ultérieure (-5%), fin d’une série de 9 semaines de gains; JPM projette un prix moyen de 5 055 $/oz fin 2026.
+  - Transition: UE prévoit des contrôles de prix sur le nouveau marché carbone; Malaisie accroît le charbon pour profiter du boom GNL; Indonésie introduira l’essence bioéthanol en 2027.
+
+2) Sentiment & Flux
+- Sentiment global: risk-on dominé par la détente US–Chine (rencontre Trump–Xi confirmée), l’inflation US plus douce et la chute des rendements; les sanctions énergie introduisent un risque offre/inflation en queue.
+- Flux/positionnement:
+  - Actions: afflux vers les mégacaps US (indices au plus haut), STOXX 600 en record porté par l’énergie; résultats mitigés (Intel >, Texas Instruments <).
+  - Or: afflux hebdomadaire record suivi d’une purge (FOMO → appels de marge).
+  - Hedge funds: encours record proche de 5 000 Mds$ (HFR).
+  - FX: USD s’affaiblit initialement post-CPI puis se stabilise; JPY volatil (glisse sur flux risk-on et politique japonaise, se raffermit quand USD baisse); GBP cède après CPI inchangé; EUR soutenu par PMI.
+
+3) Marchés
+- Devises
+  - USD: en léger repli après CPI puis quasi flat; pricing de cuts US en hausse.
+  - EUR: soutenu par l’amélioration des PMI et la baisse des rendements US.
+  - GBP: baisse après CPI « steady »; anticipations d’inflation plus élevées limitent les paris de cuts.
+  - JPY: mouvements contradictoires (baisse sur risk-on/BOJ ultra-accommodante, rebond quand USD et UST chutent); BOJ observe une surchauffe actions et l’inflation dépasse cible.
+  - CAD: neutralisé par le mix pétrole haussier vs attentes de cut BoC.
+  - CHF: ton prudent suisse sur un deal tarifaire US en 2025; profil refuge moins recherché en risk-on.
+  - AUD/NZD: bêta risk-on/commodities; peu de drivers domestiques immédiats (NZ modère les exigences de reporting climat pour doper les marchés de capitaux).
+- Taux
+  - UST: forte détente des rendements; parité des attentes de baisse de taux renforcée.
+  - Gilts: scénario cuts repoussé par l’inflation/anticipations; avertissement BoE sur la résilience du marché.
+  - Bunds: soutenus par le risk-on actions EU et PMI en amélioration, mais énergie impose une prime de risque.
+- Actions
+  - US: indices au record sur désinflation + earnings mégacaps; quelques déceptions sectorielles (semi analogiques).
+  - Europe: STOXX 600 record, énergie et buybacks (ex. LSEG) en soutien; earnings inégaux (luxe sous-performe dans un jour, rebond ailleurs).
+- Matières premières
+  - Pétrole: rally sur risques d’offre russes; OPEP « backstop » implicite.
+  - Or: volatilité extrême, fin de streak, apports massifs puis dégagements.
+
+4) Biais Macro par devise (conviction 0,25–1,00)
+- USD: baissier tactique (0,60). Rationale: CPI US « cool », rendements en chute, risk-on; prudence liée au risque données manquantes (shutdown).
+- EUR: haussier modéré (0,55). PMI en accélération, beta positif au recul du dollar; vents contraires commerciaux Chine/énergie limitent la convexité.
+- GBP: neutre/hausse légère (0,50). Anticipations d’inflation en hausse et BoE plus hawkish vs croissance fragile; price action récent négatif mais supporté par « higher-for-longer » UK.
+- JPY: neutre (0,40). Inflation > cible et signaux BOJ sur actions, mais politique toujours ultra-accommodante; direction dictée par UST. Volatil.
+- CAD: neutre (0,45). Pétrole plus haut vs probabilité de cut BoC; arbitrage flux énergie/politique monétaire.
+- CHF: légèrement baissier (0,45). Risk-on et absence de catalyse domestique; Suisse prudente sur les dossiers commerciaux.
+- AUD: légèrement haussier (0,50). Appétit pour le risque, matières premières et détente USD; peu de signaux locaux.
+- NZD: neutre (0,40). Drivers domestiques faibles; suit le beta risk.
+
+5) Scénarios binaires clés
+- Inflation US et Fed
+  - Si l’inflation US reste « cool » et la Fed entérine le pivot d’assouplissement → UST plus bas, pentification bull, USD plus faible, actions et crédit resserrent, or soutenu.
+  - Sinon (revif d’inflation ou données perturbées + ton Fed restrictif) → remontée UST, USD plus ferme, risk-off, compression sur EUR/GBP/AUD, JPY refuge.
+- Énergie russe et OPEP
+  - Si l’OPEP augmente l’offre et la logistique s’ajuste aux sanctions → pétrole corrige, inflation implicite recule, soutien aux duration trades, CAD/NOK sous-performent.
+  - Sinon (offre durablement contrainte) → pétrole élevé, inflation anticipée remonte, USD résilient contre EUR/JPY, pression sur actions hors énergie.
+- BOJ et JPY
+  - Si la BOJ signale un resserrement/tweak crédible → JPY s’apprécie rapidement, sous-performance Nikkei, aplatissement JGB.
+  - Sinon → JPY reste un funding, sensible au cycle UST/risk-on.
+- UK inflation/BoE
+  - Si les anticipations restent élevées et les données tenaces → « higher-for-longer » BoE, GBP soutenu vs EUR/JPY, pression sur gilts.
+  - Sinon (faiblesse macro accrue) → réouverture des paris de cuts, GBP sous pression.
+- Europe–Chine/commercial
+  - Si l’UE agit face au surge d’imports chinois (mesures défensives) → soutien cyclique domestique, EUR/équities EU résilients.
+  - Sinon → pression compétitive accrue, cap sur EUR, dispersion sectorielle.
+
+6) Conclusion & Outlook
+- Le mix « désinflation US + détente UST + détente US–Chine » installe un régime risk-on, avec USD en repli tactique et records actions US/EU. Les chocs énergie liés aux sanctions russes créent une queue de risque inflationniste tempérée par l’option OPEP et par des banques (UBS) pointant un excès d’offre limitant le rally.
+- En G10, privilégier une exposition modérément short USD contre EUR/AUD, conserver une approche neutre sur CAD (pétrole vs BoC) et JPY (beta UST). GBP reste un trade de dispersion où la persistance des anticipations d’inflation soutient le taux réel mais pèse sur la croissance.
+- Les flux restent directionnels: hedge funds au zénith d’encours, afflux or puis purge; garder une discipline de gestion du levier sur les thèmes « duration/long or ». Sur événement, surveiller: Fed meeting/communication, livrables US en cas de shutdown, réponse OPEP, trajectoire des PMI européens et l’angle BOJ.

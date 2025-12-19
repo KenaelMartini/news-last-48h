@@ -1,0 +1,12 @@
+risk_keywords:
+  risk_on: ["risk-on", "appetite for risk", "rally", "rotation into equities", "carry demand"]
+  risk_off: ["risk-off", "flight to safety", "safe haven", "market stress", "selloff", "panic", "hedging flows"]
+  volatility: ["vix", "volatility spike", "move index", "market turbulence"]
+  real_rates: ["real yield", "inflation-linked", "tips spread", "breakeven", "term premium"]
+
+weights:
+  risk_on: 0.25
+  risk_off: 0.35
+  high_vol: 0.40
+  real_rate_up: 0.30
+  real_rate_down: -0.20

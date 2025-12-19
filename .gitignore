@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Outputs / logs
+*.log
+outputs/
+reports/
+data/
+*.jsonl
+
+# VS Code
+.vscode/

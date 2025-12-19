@@ -1,0 +1,34 @@
+# configs/yield_rules.yaml
+yield_signals:
+  front_end_hawkish:
+    keywords:
+      - "2-year yields rise"
+      - "front-end yields rise"
+      - "short rates higher"
+      - "2y yield jumps"
+      - "front end yields spike"
+      - "2yr yields"
+  real_rates_up:
+    keywords:
+      - "real yields rise"
+      - "real yield"
+      - "tips spread widens"
+      - "inflation-adjusted yields higher"
+  curve_flattening:
+    keywords:
+      - "curve flattens"
+      - "flattening yield curve"
+      - "2s10s tighter"
+      - "2-10 spread narrows"
+  curve_steepening:
+    keywords:
+      - "curve steepens"
+      - "steepening yield curve"
+      - "2s10s wider"
+      - "2-10 spread widens"
+
+weights:
+  front_end_hawkish: 0.30
+  real_rates_up: 0.35
+  curve_flattening: 0.20
+  curve_steepening: 0.20

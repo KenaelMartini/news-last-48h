@@ -1,0 +1,14 @@
+proxies:
+  AUD: ["copper", "lme", "lng", "cnh"]
+  NZD: ["dairy", "cnh"]
+  CAD: ["wti", "oil", "crude"]
+  NOK: ["brent", "oil"]
+  GBP: ["gilt", "uk yields"]
+  EUR: ["bund", "eurozone energy"]
+  JPY: ["ust", "treasury", "vix"]
+  CHF: ["risk-off", "volatility"]
+  USD: ["ust", "real yields"]
+
+weights:
+  default: 0.15
+  high: 0.30   # si proxy mention + direction explicite (ex: "oil surges")

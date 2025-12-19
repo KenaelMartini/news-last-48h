@@ -1,0 +1,142 @@
+{
+  "asof_utc": "2025-12-18T19:48:02Z",
+  "fx": {
+    "EURUSD": {
+      "symbol": "EUR/USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "USD",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    },
+    "EURGBP": {
+      "symbol": "EUR/GBP",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "GBP",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    },
+    "EURJPY": {
+      "symbol": "EUR/JPY",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "JPY",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    },
+    "EURCHF": {
+      "symbol": "EUR/CHF",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "CHF",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    },
+    "EURAUD": {
+      "symbol": "EUR/AUD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "AUD",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    },
+    "EURCAD": {
+      "symbol": "EUR/CAD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "CAD",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    },
+    "EURNZD": {
+      "symbol": "EUR/NZD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": "NZD",
+      "ts_utc": "2025-12-18T19:48:02Z",
+      "source": "exchangerate.host"
+    }
+  },
+  "rates": {
+    "UST10Y_FUT": {
+      "symbol": "zn.f",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:04Z",
+      "source": "stooq_csv(i=5)"
+    },
+    "UST2Y_FUT": {
+      "symbol": "zt.f",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:04Z",
+      "source": "stooq_csv(i=5)"
+    },
+    "UST30Y_FUT": {
+      "symbol": "zb.f",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:04Z",
+      "source": "stooq_csv(i=5)"
+    },
+    "BUND10Y_FUT": {
+      "symbol": "rx.f",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:04Z",
+      "source": "stooq_csv(i=5)"
+    }
+  },
+  "commodities": {
+    "WTI": {
+      "symbol": "cl.f",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:03Z",
+      "source": "stooq_csv(i=5)"
+    },
+    "Gold": {
+      "symbol": "gc.f",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:03Z",
+      "source": "stooq_csv(i=5)"
+    }
+  },
+  "equities": {
+    "SPX": {
+      "symbol": "^spx",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "currency": null,
+      "ts_utc": "2025-12-18T19:48:03Z",
+      "source": "stooq_csv(i=d)"
+    }
+  },
+  "meta": {
+    "policy": "Rates are futures proxies (no yield conversion). LLM forbidden to invent prices.",
+    "fx_source": "exchangerate.host",
+    "quotes_source": "stooq_csv"
+  }
+}

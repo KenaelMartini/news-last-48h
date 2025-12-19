@@ -1,0 +1,877 @@
+[2025-10-24 17:12:23] Données chargées : type=<class 'dict'>
+[2025-10-24 17:12:23] Articles à traiter : 135
+[2025-10-24 17:12:23] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:12:24] NO PLAYWRIGHT installed, skipped fallback for #1 (status=consent_block)
+[2025-10-24 17:12:25] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:12:26] NO PLAYWRIGHT installed, skipped fallback for #2 (status=consent_block)
+[2025-10-24 17:12:27] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:12:27] NO PLAYWRIGHT installed, skipped fallback for #3 (status=consent_block)
+[2025-10-24 17:12:28] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:12:29] NO PLAYWRIGHT installed, skipped fallback for #4 (status=consent_block)
+[2025-10-24 17:12:30] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:12:31] NO PLAYWRIGHT installed, skipped fallback for #5 (status=consent_block)
+[2025-10-24 17:12:32] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:12:33] NO PLAYWRIGHT installed, skipped fallback for #6 (status=consent_block)
+[2025-10-24 17:12:34] [7/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlV2T0lGNEpGTGdaVVFMUFlqOU9HS2NMeGU2cDZMTktRYXFtUnJFZmJIbmNGVE5xcFB
+[2025-10-24 17:12:35] NO PLAYWRIGHT installed, skipped fallback for #7 (status=consent_block)
+[2025-10-24 17:12:35] [8/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXVQcl9sY3g0T2RWQWZIWEZicXVfS19UQmdkdGJEU3A0dW5QUEFKVUJ4RElDQkFPX1B
+[2025-10-24 17:12:36] NO PLAYWRIGHT installed, skipped fallback for #8 (status=consent_block)
+[2025-10-24 17:12:37] [9/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaU1TRmNuRDk1amxoSHhJV3VtNUxaV2ZwRFBDRFVSNmpPZjJTalBGZF93NUdMRExrR0U
+[2025-10-24 17:12:38] NO PLAYWRIGHT installed, skipped fallback for #9 (status=consent_block)
+[2025-10-24 17:12:38] [10/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjdid1pvem94UHp2UXotVGs4b25LODhsbWQ4RTl4UlV1d1BObk9MMEJMd0tkU1J0U3d
+[2025-10-24 17:12:39] NO PLAYWRIGHT installed, skipped fallback for #10 (status=consent_block)
+[2025-10-24 17:12:40] [11/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3l4Z0RhaXpOcEdhLWkyaEhESXhvMElyc295UzJneXk1a3ZtUkhjbFc4QWcyOENnQzJ
+[2025-10-24 17:12:41] NO PLAYWRIGHT installed, skipped fallback for #11 (status=consent_block)
+[2025-10-24 17:12:42] [12/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:12:43] NO PLAYWRIGHT installed, skipped fallback for #12 (status=consent_block)
+[2025-10-24 17:12:44] [13/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFEtblV5MGFJcHYtdzQ2V2F4T0dwZnBzODF2ZE1vSjV2d2M2ekpoM1VjQXpvc2oxbVd
+[2025-10-24 17:12:44] NO PLAYWRIGHT installed, skipped fallback for #13 (status=consent_block)
+[2025-10-24 17:12:45] [14/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE8zcUJYMTRGVVRSWXQtSjdfRDVTb1dOdndwZHV4UUE0RjRYMDIwWWs1M3ppemVUU2phMUR
+[2025-10-24 17:12:46] NO PLAYWRIGHT installed, skipped fallback for #14 (status=consent_block)
+[2025-10-24 17:12:46] [15/135] Try requests -> https://news.google.com/rss/articles/CBMipwFBVV95cUxOS20wT1JRNU5fd01iOXc5VldPX0M1RnV2RVFTZWVKUlhtMkhtS2hHeDhvSl82RDFMcjJ
+[2025-10-24 17:12:47] NO PLAYWRIGHT installed, skipped fallback for #15 (status=consent_block)
+[2025-10-24 17:12:48] [16/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzBuXzlsbGI4Zmp0REItRVhQUUZTT0hlU3U5bFpjNnlFOE9kQWlvZzc3cUh1TVc2bms
+[2025-10-24 17:12:49] NO PLAYWRIGHT installed, skipped fallback for #16 (status=consent_block)
+[2025-10-24 17:12:50] [17/135] Try requests -> https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHk4UXAtZ2JBVXFOOXBDZ0VldDRORE5uTDZUVkhORnpKTFhMV3dYbzVHbGpNRlpjQzZ
+[2025-10-24 17:12:51] NO PLAYWRIGHT installed, skipped fallback for #17 (status=consent_block)
+[2025-10-24 17:12:52] [18/135] Try requests -> https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2lCeXMyVDNUczZhM2JtVkd3anFjdFpmMUFIeWtCdGNEYmUyZmVWTTVMckl4UWgxN3Z
+[2025-10-24 17:12:53] NO PLAYWRIGHT installed, skipped fallback for #18 (status=consent_block)
+[2025-10-24 17:12:53] [19/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXlZcGE5NUlxbWFmOTlqNjVSUmpLazI5cmtURGVUVmtCM293VWdYMEhINnV3N01RdXp
+[2025-10-24 17:12:54] NO PLAYWRIGHT installed, skipped fallback for #19 (status=consent_block)
+[2025-10-24 17:12:55] [20/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxNbThXSHI3T2FFVGtJN0N2QkJPQnVUcnI2YWI1cjhiSEdjUjBoR250T2V5QUF1Nnlmdy1
+[2025-10-24 17:12:56] NO PLAYWRIGHT installed, skipped fallback for #20 (status=consent_block)
+[2025-10-24 17:12:57] [21/135] Try requests -> https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWJsdThzMWh6SnJsQVVzaG5QLXgtYmlKUnByYUtLQmNpVUpoWFFWYzJnTE5BOWNrSEZ
+[2025-10-24 17:12:58] NO PLAYWRIGHT installed, skipped fallback for #21 (status=consent_block)
+[2025-10-24 17:12:59] [22/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVLS2FENFJTVExOTFlpRC0ya1dxbkY1YlY4S2EyUVk4NnBqOGJheDNUSV81eWVjTmx
+[2025-10-24 17:12:59] NO PLAYWRIGHT installed, skipped fallback for #22 (status=consent_block)
+[2025-10-24 17:13:00] [23/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2d3ZDhReG9LUEp0QUJDVnozd3hvMGFZSi1QdGVpSXlLd2VycjRyLTctTlQ5TTgtbzc
+[2025-10-24 17:13:01] NO PLAYWRIGHT installed, skipped fallback for #23 (status=consent_block)
+[2025-10-24 17:13:02] [24/135] Try requests -> https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3oybFZnYkUxWmdMUGhfN2JLZmxTU00zRWpMS1FMYWF6TE1XVHdaNm1CMy1SRV9DaTN
+[2025-10-24 17:13:03] NO PLAYWRIGHT installed, skipped fallback for #24 (status=consent_block)
+[2025-10-24 17:13:03] [25/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOSU1uN0NtYVlra29xVDRZY0xZYS1XUGlUMFY3cGFsNm91eDNvZEd3UHBOVWludzBSd0l
+[2025-10-24 17:13:04] NO PLAYWRIGHT installed, skipped fallback for #25 (status=consent_block)
+[2025-10-24 17:13:05] [26/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1d6RXREY0dZdl8wUktCbjhPTHBEMkhNeTlGeEJMdDJpcmtyMGJ6U0dvVEtOeHoxQnV
+[2025-10-24 17:13:05] NO PLAYWRIGHT installed, skipped fallback for #26 (status=consent_block)
+[2025-10-24 17:13:06] [27/135] Try requests -> https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29tY2FleUM1ZTJZc3h4dk12VE51azlseko3VUY1R01uMHNpOVdzTWp6UDhiUkJBdm5
+[2025-10-24 17:13:07] NO PLAYWRIGHT installed, skipped fallback for #27 (status=consent_block)
+[2025-10-24 17:13:08] [28/135] Try requests -> https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDhJUzB6MnJGSGtWN3owZ3NPVW1aTGhzdThNZTRQc05zZ2lEMkxQTFU4ZjFkQ2N2NVp
+[2025-10-24 17:13:09] NO PLAYWRIGHT installed, skipped fallback for #28 (status=consent_block)
+[2025-10-24 17:13:28] Données chargées : type=<class 'dict'>
+[2025-10-24 17:13:28] Articles à traiter : 135
+[2025-10-24 17:13:28] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:13:29] NO PLAYWRIGHT installed, skipped fallback for #1 (status=consent_block)
+[2025-10-24 17:13:30] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:13:31] NO PLAYWRIGHT installed, skipped fallback for #2 (status=consent_block)
+[2025-10-24 17:13:32] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:13:33] NO PLAYWRIGHT installed, skipped fallback for #3 (status=consent_block)
+[2025-10-24 17:13:33] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:13:34] NO PLAYWRIGHT installed, skipped fallback for #4 (status=consent_block)
+[2025-10-24 17:13:35] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:13:35] NO PLAYWRIGHT installed, skipped fallback for #5 (status=consent_block)
+[2025-10-24 17:13:36] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:13:37] NO PLAYWRIGHT installed, skipped fallback for #6 (status=consent_block)
+[2025-10-24 17:13:37] [7/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlV2T0lGNEpGTGdaVVFMUFlqOU9HS2NMeGU2cDZMTktRYXFtUnJFZmJIbmNGVE5xcFB
+[2025-10-24 17:13:38] NO PLAYWRIGHT installed, skipped fallback for #7 (status=consent_block)
+[2025-10-24 17:13:39] [8/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXVQcl9sY3g0T2RWQWZIWEZicXVfS19UQmdkdGJEU3A0dW5QUEFKVUJ4RElDQkFPX1B
+[2025-10-24 17:13:40] NO PLAYWRIGHT installed, skipped fallback for #8 (status=consent_block)
+[2025-10-24 17:13:41] [9/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaU1TRmNuRDk1amxoSHhJV3VtNUxaV2ZwRFBDRFVSNmpPZjJTalBGZF93NUdMRExrR0U
+[2025-10-24 17:13:42] NO PLAYWRIGHT installed, skipped fallback for #9 (status=consent_block)
+[2025-10-24 17:13:43] [10/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjdid1pvem94UHp2UXotVGs4b25LODhsbWQ4RTl4UlV1d1BObk9MMEJMd0tkU1J0U3d
+[2025-10-24 17:13:44] NO PLAYWRIGHT installed, skipped fallback for #10 (status=consent_block)
+[2025-10-24 17:13:44] [11/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3l4Z0RhaXpOcEdhLWkyaEhESXhvMElyc295UzJneXk1a3ZtUkhjbFc4QWcyOENnQzJ
+[2025-10-24 17:13:45] NO PLAYWRIGHT installed, skipped fallback for #11 (status=consent_block)
+[2025-10-24 17:13:46] [12/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:13:47] NO PLAYWRIGHT installed, skipped fallback for #12 (status=consent_block)
+[2025-10-24 17:13:48] [13/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFEtblV5MGFJcHYtdzQ2V2F4T0dwZnBzODF2ZE1vSjV2d2M2ekpoM1VjQXpvc2oxbVd
+[2025-10-24 17:13:49] NO PLAYWRIGHT installed, skipped fallback for #13 (status=consent_block)
+[2025-10-24 17:13:49] [14/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE8zcUJYMTRGVVRSWXQtSjdfRDVTb1dOdndwZHV4UUE0RjRYMDIwWWs1M3ppemVUU2phMUR
+[2025-10-24 17:13:50] NO PLAYWRIGHT installed, skipped fallback for #14 (status=consent_block)
+[2025-10-24 17:13:51] [15/135] Try requests -> https://news.google.com/rss/articles/CBMipwFBVV95cUxOS20wT1JRNU5fd01iOXc5VldPX0M1RnV2RVFTZWVKUlhtMkhtS2hHeDhvSl82RDFMcjJ
+[2025-10-24 17:13:52] NO PLAYWRIGHT installed, skipped fallback for #15 (status=consent_block)
+[2025-10-24 17:13:53] [16/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzBuXzlsbGI4Zmp0REItRVhQUUZTT0hlU3U5bFpjNnlFOE9kQWlvZzc3cUh1TVc2bms
+[2025-10-24 17:13:53] NO PLAYWRIGHT installed, skipped fallback for #16 (status=consent_block)
+[2025-10-24 17:13:54] [17/135] Try requests -> https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHk4UXAtZ2JBVXFOOXBDZ0VldDRORE5uTDZUVkhORnpKTFhMV3dYbzVHbGpNRlpjQzZ
+[2025-10-24 17:14:39] Données chargées : type=<class 'dict'>
+[2025-10-24 17:14:39] Articles à traiter : 135
+[2025-10-24 17:14:39] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:14:40] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:14:49] FAIL (playwright_no_content) #1
+[2025-10-24 17:14:50] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:14:51] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:14:54] FAIL (playwright_no_content) #2
+[2025-10-24 17:14:55] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:14:56] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:14:59] FAIL (playwright_no_content) #3
+[2025-10-24 17:15:00] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:15:01] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:15:05] FAIL (playwright_no_content) #4
+[2025-10-24 17:15:05] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:15:06] Fallback Playwright for #5 (reason: consent_block)
+[2025-10-24 17:15:10] FAIL (playwright_no_content) #5
+[2025-10-24 17:15:11] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:15:12] Fallback Playwright for #6 (reason: consent_block)
+[2025-10-24 17:15:15] FAIL (playwright_no_content) #6
+[2025-10-24 17:15:16] [7/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlV2T0lGNEpGTGdaVVFMUFlqOU9HS2NMeGU2cDZMTktRYXFtUnJFZmJIbmNGVE5xcFB
+[2025-10-24 17:15:17] Fallback Playwright for #7 (reason: consent_block)
+[2025-10-24 17:15:21] FAIL (playwright_no_content) #7
+[2025-10-24 17:15:21] [8/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXVQcl9sY3g0T2RWQWZIWEZicXVfS19UQmdkdGJEU3A0dW5QUEFKVUJ4RElDQkFPX1B
+[2025-10-24 17:15:22] Fallback Playwright for #8 (reason: consent_block)
+[2025-10-24 17:15:26] FAIL (playwright_no_content) #8
+[2025-10-24 17:15:27] [9/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaU1TRmNuRDk1amxoSHhJV3VtNUxaV2ZwRFBDRFVSNmpPZjJTalBGZF93NUdMRExrR0U
+[2025-10-24 17:15:28] Fallback Playwright for #9 (reason: consent_block)
+[2025-10-24 17:15:31] FAIL (playwright_no_content) #9
+[2025-10-24 17:15:32] [10/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjdid1pvem94UHp2UXotVGs4b25LODhsbWQ4RTl4UlV1d1BObk9MMEJMd0tkU1J0U3d
+[2025-10-24 17:15:33] Fallback Playwright for #10 (reason: consent_block)
+[2025-10-24 17:15:36] FAIL (playwright_no_content) #10
+[2025-10-24 17:15:37] [11/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3l4Z0RhaXpOcEdhLWkyaEhESXhvMElyc295UzJneXk1a3ZtUkhjbFc4QWcyOENnQzJ
+[2025-10-24 17:15:38] Fallback Playwright for #11 (reason: consent_block)
+[2025-10-24 17:15:41] FAIL (playwright_no_content) #11
+[2025-10-24 17:15:42] [12/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:15:43] Fallback Playwright for #12 (reason: consent_block)
+[2025-10-24 17:15:46] FAIL (playwright_no_content) #12
+[2025-10-24 17:15:47] [13/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFEtblV5MGFJcHYtdzQ2V2F4T0dwZnBzODF2ZE1vSjV2d2M2ekpoM1VjQXpvc2oxbVd
+[2025-10-24 17:15:48] Fallback Playwright for #13 (reason: consent_block)
+[2025-10-24 17:15:52] FAIL (playwright_no_content) #13
+[2025-10-24 17:15:53] [14/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE8zcUJYMTRGVVRSWXQtSjdfRDVTb1dOdndwZHV4UUE0RjRYMDIwWWs1M3ppemVUU2phMUR
+[2025-10-24 17:15:54] Fallback Playwright for #14 (reason: consent_block)
+[2025-10-24 17:15:57] FAIL (playwright_no_content) #14
+[2025-10-24 17:15:59] [15/135] Try requests -> https://news.google.com/rss/articles/CBMipwFBVV95cUxOS20wT1JRNU5fd01iOXc5VldPX0M1RnV2RVFTZWVKUlhtMkhtS2hHeDhvSl82RDFMcjJ
+[2025-10-24 17:15:59] Fallback Playwright for #15 (reason: consent_block)
+[2025-10-24 17:16:03] FAIL (playwright_no_content) #15
+[2025-10-24 17:16:04] [16/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzBuXzlsbGI4Zmp0REItRVhQUUZTT0hlU3U5bFpjNnlFOE9kQWlvZzc3cUh1TVc2bms
+[2025-10-24 17:16:05] Fallback Playwright for #16 (reason: consent_block)
+[2025-10-24 17:16:08] FAIL (playwright_no_content) #16
+[2025-10-24 17:16:09] [17/135] Try requests -> https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHk4UXAtZ2JBVXFOOXBDZ0VldDRORE5uTDZUVkhORnpKTFhMV3dYbzVHbGpNRlpjQzZ
+[2025-10-24 17:16:10] Fallback Playwright for #17 (reason: consent_block)
+[2025-10-24 17:16:14] FAIL (playwright_no_content) #17
+[2025-10-24 17:16:15] [18/135] Try requests -> https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2lCeXMyVDNUczZhM2JtVkd3anFjdFpmMUFIeWtCdGNEYmUyZmVWTTVMckl4UWgxN3Z
+[2025-10-24 17:16:16] Fallback Playwright for #18 (reason: consent_block)
+[2025-10-24 17:17:24] Données chargées : type=<class 'dict'>
+[2025-10-24 17:17:24] Articles à traiter : 135
+[2025-10-24 17:17:24] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:17:25] NO PLAYWRIGHT installed, skipped fallback for #1 (status=consent_block)
+[2025-10-24 17:17:26] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:17:27] NO PLAYWRIGHT installed, skipped fallback for #2 (status=consent_block)
+[2025-10-24 17:17:27] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:17:28] NO PLAYWRIGHT installed, skipped fallback for #3 (status=consent_block)
+[2025-10-24 17:17:29] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:17:30] NO PLAYWRIGHT installed, skipped fallback for #4 (status=consent_block)
+[2025-10-24 17:17:31] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:17:32] NO PLAYWRIGHT installed, skipped fallback for #5 (status=consent_block)
+[2025-10-24 17:17:32] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:17:33] NO PLAYWRIGHT installed, skipped fallback for #6 (status=consent_block)
+[2025-10-24 17:17:34] [7/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlV2T0lGNEpGTGdaVVFMUFlqOU9HS2NMeGU2cDZMTktRYXFtUnJFZmJIbmNGVE5xcFB
+[2025-10-24 17:17:35] NO PLAYWRIGHT installed, skipped fallback for #7 (status=consent_block)
+[2025-10-24 17:17:36] [8/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXVQcl9sY3g0T2RWQWZIWEZicXVfS19UQmdkdGJEU3A0dW5QUEFKVUJ4RElDQkFPX1B
+[2025-10-24 17:17:36] NO PLAYWRIGHT installed, skipped fallback for #8 (status=consent_block)
+[2025-10-24 17:17:37] [9/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaU1TRmNuRDk1amxoSHhJV3VtNUxaV2ZwRFBDRFVSNmpPZjJTalBGZF93NUdMRExrR0U
+[2025-10-24 17:17:38] NO PLAYWRIGHT installed, skipped fallback for #9 (status=consent_block)
+[2025-10-24 17:17:39] [10/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjdid1pvem94UHp2UXotVGs4b25LODhsbWQ4RTl4UlV1d1BObk9MMEJMd0tkU1J0U3d
+[2025-10-24 17:17:40] NO PLAYWRIGHT installed, skipped fallback for #10 (status=consent_block)
+[2025-10-24 17:17:53] Données chargées : type=<class 'dict'>
+[2025-10-24 17:17:53] Articles à traiter : 135
+[2025-10-24 17:17:53] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:17:54] NO PLAYWRIGHT installed, skipped fallback for #1 (status=consent_block)
+[2025-10-24 17:17:55] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:17:56] NO PLAYWRIGHT installed, skipped fallback for #2 (status=consent_block)
+[2025-10-24 17:17:57] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:17:58] NO PLAYWRIGHT installed, skipped fallback for #3 (status=consent_block)
+[2025-10-24 17:17:59] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:17:59] NO PLAYWRIGHT installed, skipped fallback for #4 (status=consent_block)
+[2025-10-24 17:18:00] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:18:01] NO PLAYWRIGHT installed, skipped fallback for #5 (status=consent_block)
+[2025-10-24 17:18:02] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:18:03] NO PLAYWRIGHT installed, skipped fallback for #6 (status=consent_block)
+[2025-10-24 17:18:04] [7/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlV2T0lGNEpGTGdaVVFMUFlqOU9HS2NMeGU2cDZMTktRYXFtUnJFZmJIbmNGVE5xcFB
+[2025-10-24 17:18:05] NO PLAYWRIGHT installed, skipped fallback for #7 (status=consent_block)
+[2025-10-24 17:18:05] [8/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXVQcl9sY3g0T2RWQWZIWEZicXVfS19UQmdkdGJEU3A0dW5QUEFKVUJ4RElDQkFPX1B
+[2025-10-24 17:18:06] NO PLAYWRIGHT installed, skipped fallback for #8 (status=consent_block)
+[2025-10-24 17:18:07] [9/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaU1TRmNuRDk1amxoSHhJV3VtNUxaV2ZwRFBDRFVSNmpPZjJTalBGZF93NUdMRExrR0U
+[2025-10-24 17:18:08] NO PLAYWRIGHT installed, skipped fallback for #9 (status=consent_block)
+[2025-10-24 17:18:09] [10/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjdid1pvem94UHp2UXotVGs4b25LODhsbWQ4RTl4UlV1d1BObk9MMEJMd0tkU1J0U3d
+[2025-10-24 17:18:09] NO PLAYWRIGHT installed, skipped fallback for #10 (status=consent_block)
+[2025-10-24 17:18:10] [11/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3l4Z0RhaXpOcEdhLWkyaEhESXhvMElyc295UzJneXk1a3ZtUkhjbFc4QWcyOENnQzJ
+[2025-10-24 17:18:11] NO PLAYWRIGHT installed, skipped fallback for #11 (status=consent_block)
+[2025-10-24 17:18:12] [12/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:18:13] NO PLAYWRIGHT installed, skipped fallback for #12 (status=consent_block)
+[2025-10-24 17:18:14] [13/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFEtblV5MGFJcHYtdzQ2V2F4T0dwZnBzODF2ZE1vSjV2d2M2ekpoM1VjQXpvc2oxbVd
+[2025-10-24 17:18:14] NO PLAYWRIGHT installed, skipped fallback for #13 (status=consent_block)
+[2025-10-24 17:18:15] [14/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE8zcUJYMTRGVVRSWXQtSjdfRDVTb1dOdndwZHV4UUE0RjRYMDIwWWs1M3ppemVUU2phMUR
+[2025-10-24 17:18:16] NO PLAYWRIGHT installed, skipped fallback for #14 (status=consent_block)
+[2025-10-24 17:18:17] [15/135] Try requests -> https://news.google.com/rss/articles/CBMipwFBVV95cUxOS20wT1JRNU5fd01iOXc5VldPX0M1RnV2RVFTZWVKUlhtMkhtS2hHeDhvSl82RDFMcjJ
+[2025-10-24 17:18:18] NO PLAYWRIGHT installed, skipped fallback for #15 (status=consent_block)
+[2025-10-24 17:18:19] [16/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzBuXzlsbGI4Zmp0REItRVhQUUZTT0hlU3U5bFpjNnlFOE9kQWlvZzc3cUh1TVc2bms
+[2025-10-24 17:18:20] NO PLAYWRIGHT installed, skipped fallback for #16 (status=consent_block)
+[2025-10-24 17:18:21] [17/135] Try requests -> https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHk4UXAtZ2JBVXFOOXBDZ0VldDRORE5uTDZUVkhORnpKTFhMV3dYbzVHbGpNRlpjQzZ
+[2025-10-24 17:18:21] NO PLAYWRIGHT installed, skipped fallback for #17 (status=consent_block)
+[2025-10-24 17:18:22] [18/135] Try requests -> https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2lCeXMyVDNUczZhM2JtVkd3anFjdFpmMUFIeWtCdGNEYmUyZmVWTTVMckl4UWgxN3Z
+[2025-10-24 17:18:23] NO PLAYWRIGHT installed, skipped fallback for #18 (status=consent_block)
+[2025-10-24 17:18:24] [19/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXlZcGE5NUlxbWFmOTlqNjVSUmpLazI5cmtURGVUVmtCM293VWdYMEhINnV3N01RdXp
+[2025-10-24 17:18:24] NO PLAYWRIGHT installed, skipped fallback for #19 (status=consent_block)
+[2025-10-24 17:18:25] [20/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxNbThXSHI3T2FFVGtJN0N2QkJPQnVUcnI2YWI1cjhiSEdjUjBoR250T2V5QUF1Nnlmdy1
+[2025-10-24 17:18:26] NO PLAYWRIGHT installed, skipped fallback for #20 (status=consent_block)
+[2025-10-24 17:18:27] [21/135] Try requests -> https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWJsdThzMWh6SnJsQVVzaG5QLXgtYmlKUnByYUtLQmNpVUpoWFFWYzJnTE5BOWNrSEZ
+[2025-10-24 17:18:28] NO PLAYWRIGHT installed, skipped fallback for #21 (status=consent_block)
+[2025-10-24 17:18:29] [22/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVLS2FENFJTVExOTFlpRC0ya1dxbkY1YlY4S2EyUVk4NnBqOGJheDNUSV81eWVjTmx
+[2025-10-24 17:18:29] NO PLAYWRIGHT installed, skipped fallback for #22 (status=consent_block)
+[2025-10-24 17:18:30] [23/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2d3ZDhReG9LUEp0QUJDVnozd3hvMGFZSi1QdGVpSXlLd2VycjRyLTctTlQ5TTgtbzc
+[2025-10-24 17:18:31] NO PLAYWRIGHT installed, skipped fallback for #23 (status=consent_block)
+[2025-10-24 17:18:32] [24/135] Try requests -> https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3oybFZnYkUxWmdMUGhfN2JLZmxTU00zRWpMS1FMYWF6TE1XVHdaNm1CMy1SRV9DaTN
+[2025-10-24 17:18:33] NO PLAYWRIGHT installed, skipped fallback for #24 (status=consent_block)
+[2025-10-24 17:18:34] [25/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOSU1uN0NtYVlra29xVDRZY0xZYS1XUGlUMFY3cGFsNm91eDNvZEd3UHBOVWludzBSd0l
+[2025-10-24 17:18:35] NO PLAYWRIGHT installed, skipped fallback for #25 (status=consent_block)
+[2025-10-24 17:18:36] [26/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1d6RXREY0dZdl8wUktCbjhPTHBEMkhNeTlGeEJMdDJpcmtyMGJ6U0dvVEtOeHoxQnV
+[2025-10-24 17:18:37] NO PLAYWRIGHT installed, skipped fallback for #26 (status=consent_block)
+[2025-10-24 17:18:38] [27/135] Try requests -> https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29tY2FleUM1ZTJZc3h4dk12VE51azlseko3VUY1R01uMHNpOVdzTWp6UDhiUkJBdm5
+[2025-10-24 17:18:39] NO PLAYWRIGHT installed, skipped fallback for #27 (status=consent_block)
+[2025-10-24 17:18:39] [28/135] Try requests -> https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDhJUzB6MnJGSGtWN3owZ3NPVW1aTGhzdThNZTRQc05zZ2lEMkxQTFU4ZjFkQ2N2NVp
+[2025-10-24 17:18:40] NO PLAYWRIGHT installed, skipped fallback for #28 (status=consent_block)
+[2025-10-24 17:18:41] [29/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2h4MTN2bnZsamRvTHhXZ282eTFOd0xmU2lURHRXc0lvd2h2ZTRkM21QWjVTd25vQ3U
+[2025-10-24 17:18:41] NO PLAYWRIGHT installed, skipped fallback for #29 (status=consent_block)
+[2025-10-24 17:18:43] [30/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1JrYkRMV210TTlfd0x1b01xaWo3UmlZNHdXMWk1bmpWazZtdE5va0k2MU1mb0pFZnh
+[2025-10-24 17:18:43] NO PLAYWRIGHT installed, skipped fallback for #30 (status=consent_block)
+[2025-10-24 17:18:44] [31/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE1scEt0YVpIM004R2plbzBIMFdMUWk0OGlBZnl4T0JUNzEtR3F3eF84WjlIYVRkLTZ4M2V
+[2025-10-24 17:18:45] NO PLAYWRIGHT installed, skipped fallback for #31 (status=consent_block)
+[2025-10-24 17:18:46] [32/135] Try requests -> https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1QxMHJXelNNU083U0lIdGVSVkN5Umh3WXRJZmYtVVlVcXVJNkZnczZPM1U0ZlpaaDZ
+[2025-10-24 17:18:47] NO PLAYWRIGHT installed, skipped fallback for #32 (status=consent_block)
+[2025-10-24 17:18:47] [33/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWl6RTZ6aVZNVkk2OGFrVVFCdnBPc2dvVjhkekd1aDBWaDdJSmJ3VFRBdC0tYlQ1QXl
+[2025-10-24 17:18:48] NO PLAYWRIGHT installed, skipped fallback for #33 (status=consent_block)
+[2025-10-24 17:18:48] [34/135] Try requests -> https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWZZRjlRdFZEeHdfNTI3WlpnNkpVUmI5VVBLRVZ1ckZQZnRnbzE0SWh0eWZnUWNQcDh
+[2025-10-24 17:18:49] NO PLAYWRIGHT installed, skipped fallback for #34 (status=consent_block)
+[2025-10-24 17:18:50] [35/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxOci00WU5ETzhKYmZReGowNnlpejVoWnpvNTluUE9rTVFfcU1XSlBPWHZ0eHV5dmxtZW9
+[2025-10-24 17:18:51] NO PLAYWRIGHT installed, skipped fallback for #35 (status=consent_block)
+[2025-10-24 17:18:52] [36/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUZXeC1PM3dOSE0ybUxpZUoxSFBfVkJOc2JoUG1FaWZYX2RWR2FtVktySHU0empCRnd
+[2025-10-24 17:18:53] NO PLAYWRIGHT installed, skipped fallback for #36 (status=consent_block)
+[2025-10-24 17:18:54] [37/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE1JM0VCTzdjMVU4WmNJSzdoVGV2TnE3TG5fVFhLaFRadnlmTjlJTHlSZmt6Y3NOZmxoQll
+[2025-10-24 17:18:54] NO PLAYWRIGHT installed, skipped fallback for #37 (status=consent_block)
+[2025-10-24 17:18:55] [38/135] Try requests -> https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlNPOFdkV2ZmdDUwdHBMQkxZZ2wza3Vhc1JsOUVpLUFtZlVFUW9GTzJSeEpxOVNrSGF
+[2025-10-24 17:18:56] NO PLAYWRIGHT installed, skipped fallback for #38 (status=consent_block)
+[2025-10-24 17:18:57] [39/135] Try requests -> https://news.google.com/rss/articles/CBMimwFBVV95cUxNODBGY3YyWnF0Y2EzY21ySUNRUEx2S29xbnNrWlloeVdOSGNMd1N1SjZFZjA1VlpXbEh
+[2025-10-24 17:18:57] NO PLAYWRIGHT installed, skipped fallback for #39 (status=consent_block)
+[2025-10-24 17:18:58] [40/135] Try requests -> https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0VZZ3Z5RXlJWUpRSkdiMXZQTG5BUTBzNUNVMTJxUklOSF9hR3poOVhYV1lyVy0zSFV
+[2025-10-24 17:18:59] NO PLAYWRIGHT installed, skipped fallback for #40 (status=consent_block)
+[2025-10-24 17:19:00] [41/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUJmWV9TNFpUcWtfaDhCOUh0dE1odTkyeTJrT0VzSUtFSnJDQ05jTWlyMFJ0WENkQ0l
+[2025-10-24 17:19:01] NO PLAYWRIGHT installed, skipped fallback for #41 (status=consent_block)
+[2025-10-24 17:19:02] [42/135] Try requests -> https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnRrYlh5NW1qWTdJVm40Q0ZrelE0WHB6ZEZubVhodU5TclQ2aFY2ZXN5a0JlMk5rQkw
+[2025-10-24 17:19:03] NO PLAYWRIGHT installed, skipped fallback for #42 (status=consent_block)
+[2025-10-24 17:19:04] [43/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekNaamlpYTg4Y2I0TFBFbWlpV2RvQ3FiRnRuOVRWRUozenRha1IwODZ0eGVXZ2JmZUt
+[2025-10-24 17:19:05] NO PLAYWRIGHT installed, skipped fallback for #43 (status=consent_block)
+[2025-10-24 17:19:49] Données chargées : type=<class 'dict'>
+[2025-10-24 17:19:49] Articles à traiter : 135
+[2025-10-24 17:19:49] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:19:50] NO PLAYWRIGHT installed, skipped fallback for #1 (status=consent_block)
+[2025-10-24 17:19:51] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:19:52] NO PLAYWRIGHT installed, skipped fallback for #2 (status=consent_block)
+[2025-10-24 17:23:48] Données chargées : type=<class 'dict'>
+[2025-10-24 17:23:48] Articles à traiter : 135
+[2025-10-24 17:23:48] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:23:49] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:23:53] OK (playwright) #1 -> 126 words approx.
+[2025-10-24 17:23:54] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:23:55] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:23:56] OK (playwright) #2 -> 126 words approx.
+[2025-10-24 17:23:57] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:23:58] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:23:59] OK (playwright) #3 -> 126 words approx.
+[2025-10-24 17:24:00] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:24:01] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:24:02] OK (playwright) #4 -> 126 words approx.
+[2025-10-24 17:24:03] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:24:04] Fallback Playwright for #5 (reason: consent_block)
+[2025-10-24 17:24:06] OK (playwright) #5 -> 126 words approx.
+[2025-10-24 17:24:07] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:24:07] Fallback Playwright for #6 (reason: consent_block)
+[2025-10-24 17:24:09] OK (playwright) #6 -> 126 words approx.
+[2025-10-24 17:24:10] [7/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlV2T0lGNEpGTGdaVVFMUFlqOU9HS2NMeGU2cDZMTktRYXFtUnJFZmJIbmNGVE5xcFB
+[2025-10-24 17:24:10] Fallback Playwright for #7 (reason: consent_block)
+[2025-10-24 17:24:12] OK (playwright) #7 -> 126 words approx.
+[2025-10-24 17:24:12] [8/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXVQcl9sY3g0T2RWQWZIWEZicXVfS19UQmdkdGJEU3A0dW5QUEFKVUJ4RElDQkFPX1B
+[2025-10-24 17:24:13] Fallback Playwright for #8 (reason: consent_block)
+[2025-10-24 17:24:14] OK (playwright) #8 -> 126 words approx.
+[2025-10-24 17:24:15] [9/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaU1TRmNuRDk1amxoSHhJV3VtNUxaV2ZwRFBDRFVSNmpPZjJTalBGZF93NUdMRExrR0U
+[2025-10-24 17:24:16] Fallback Playwright for #9 (reason: consent_block)
+[2025-10-24 17:24:17] OK (playwright) #9 -> 126 words approx.
+[2025-10-24 17:24:18] [10/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjdid1pvem94UHp2UXotVGs4b25LODhsbWQ4RTl4UlV1d1BObk9MMEJMd0tkU1J0U3d
+[2025-10-24 17:24:19] Fallback Playwright for #10 (reason: consent_block)
+[2025-10-24 17:24:20] OK (playwright) #10 -> 126 words approx.
+[2025-10-24 17:24:21] [11/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3l4Z0RhaXpOcEdhLWkyaEhESXhvMElyc295UzJneXk1a3ZtUkhjbFc4QWcyOENnQzJ
+[2025-10-24 17:24:21] Fallback Playwright for #11 (reason: consent_block)
+[2025-10-24 17:24:23] OK (playwright) #11 -> 126 words approx.
+[2025-10-24 17:24:23] [12/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:24:24] Fallback Playwright for #12 (reason: consent_block)
+[2025-10-24 17:24:26] OK (playwright) #12 -> 126 words approx.
+[2025-10-24 17:24:27] [13/135] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFEtblV5MGFJcHYtdzQ2V2F4T0dwZnBzODF2ZE1vSjV2d2M2ekpoM1VjQXpvc2oxbVd
+[2025-10-24 17:24:27] Fallback Playwright for #13 (reason: consent_block)
+[2025-10-24 17:24:29] OK (playwright) #13 -> 126 words approx.
+[2025-10-24 17:24:29] [14/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE8zcUJYMTRGVVRSWXQtSjdfRDVTb1dOdndwZHV4UUE0RjRYMDIwWWs1M3ppemVUU2phMUR
+[2025-10-24 17:24:30] Fallback Playwright for #14 (reason: consent_block)
+[2025-10-24 17:24:32] OK (playwright) #14 -> 126 words approx.
+[2025-10-24 17:24:33] [15/135] Try requests -> https://news.google.com/rss/articles/CBMipwFBVV95cUxOS20wT1JRNU5fd01iOXc5VldPX0M1RnV2RVFTZWVKUlhtMkhtS2hHeDhvSl82RDFMcjJ
+[2025-10-24 17:24:33] Fallback Playwright for #15 (reason: consent_block)
+[2025-10-24 17:24:35] OK (playwright) #15 -> 126 words approx.
+[2025-10-24 17:24:36] [16/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzBuXzlsbGI4Zmp0REItRVhQUUZTT0hlU3U5bFpjNnlFOE9kQWlvZzc3cUh1TVc2bms
+[2025-10-24 17:24:37] Fallback Playwright for #16 (reason: consent_block)
+[2025-10-24 17:24:38] OK (playwright) #16 -> 126 words approx.
+[2025-10-24 17:24:39] [17/135] Try requests -> https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHk4UXAtZ2JBVXFOOXBDZ0VldDRORE5uTDZUVkhORnpKTFhMV3dYbzVHbGpNRlpjQzZ
+[2025-10-24 17:24:40] Fallback Playwright for #17 (reason: consent_block)
+[2025-10-24 17:24:41] OK (playwright) #17 -> 126 words approx.
+[2025-10-24 17:24:42] [18/135] Try requests -> https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2lCeXMyVDNUczZhM2JtVkd3anFjdFpmMUFIeWtCdGNEYmUyZmVWTTVMckl4UWgxN3Z
+[2025-10-24 17:24:43] Fallback Playwright for #18 (reason: consent_block)
+[2025-10-24 17:24:44] OK (playwright) #18 -> 126 words approx.
+[2025-10-24 17:24:45] [19/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXlZcGE5NUlxbWFmOTlqNjVSUmpLazI5cmtURGVUVmtCM293VWdYMEhINnV3N01RdXp
+[2025-10-24 17:24:46] Fallback Playwright for #19 (reason: consent_block)
+[2025-10-24 17:24:47] OK (playwright) #19 -> 126 words approx.
+[2025-10-24 17:24:48] [20/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxNbThXSHI3T2FFVGtJN0N2QkJPQnVUcnI2YWI1cjhiSEdjUjBoR250T2V5QUF1Nnlmdy1
+[2025-10-24 17:24:49] Fallback Playwright for #20 (reason: consent_block)
+[2025-10-24 17:24:50] OK (playwright) #20 -> 126 words approx.
+[2025-10-24 17:24:51] [21/135] Try requests -> https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWJsdThzMWh6SnJsQVVzaG5QLXgtYmlKUnByYUtLQmNpVUpoWFFWYzJnTE5BOWNrSEZ
+[2025-10-24 17:24:52] Fallback Playwright for #21 (reason: consent_block)
+[2025-10-24 17:24:53] OK (playwright) #21 -> 126 words approx.
+[2025-10-24 17:24:54] [22/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVLS2FENFJTVExOTFlpRC0ya1dxbkY1YlY4S2EyUVk4NnBqOGJheDNUSV81eWVjTmx
+[2025-10-24 17:24:55] Fallback Playwright for #22 (reason: consent_block)
+[2025-10-24 17:24:56] OK (playwright) #22 -> 126 words approx.
+[2025-10-24 17:24:57] [23/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2d3ZDhReG9LUEp0QUJDVnozd3hvMGFZSi1QdGVpSXlLd2VycjRyLTctTlQ5TTgtbzc
+[2025-10-24 17:24:58] Fallback Playwright for #23 (reason: consent_block)
+[2025-10-24 17:24:59] OK (playwright) #23 -> 126 words approx.
+[2025-10-24 17:25:00] [24/135] Try requests -> https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3oybFZnYkUxWmdMUGhfN2JLZmxTU00zRWpMS1FMYWF6TE1XVHdaNm1CMy1SRV9DaTN
+[2025-10-24 17:25:01] Fallback Playwright for #24 (reason: consent_block)
+[2025-10-24 17:25:02] OK (playwright) #24 -> 126 words approx.
+[2025-10-24 17:25:03] [25/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOSU1uN0NtYVlra29xVDRZY0xZYS1XUGlUMFY3cGFsNm91eDNvZEd3UHBOVWludzBSd0l
+[2025-10-24 17:25:04] Fallback Playwright for #25 (reason: consent_block)
+[2025-10-24 17:25:05] OK (playwright) #25 -> 126 words approx.
+[2025-10-24 17:25:06] [26/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1d6RXREY0dZdl8wUktCbjhPTHBEMkhNeTlGeEJMdDJpcmtyMGJ6U0dvVEtOeHoxQnV
+[2025-10-24 17:25:07] Fallback Playwright for #26 (reason: consent_block)
+[2025-10-24 17:25:08] OK (playwright) #26 -> 126 words approx.
+[2025-10-24 17:25:09] [27/135] Try requests -> https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29tY2FleUM1ZTJZc3h4dk12VE51azlseko3VUY1R01uMHNpOVdzTWp6UDhiUkJBdm5
+[2025-10-24 17:25:10] Fallback Playwright for #27 (reason: consent_block)
+[2025-10-24 17:25:11] OK (playwright) #27 -> 126 words approx.
+[2025-10-24 17:25:12] [28/135] Try requests -> https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDhJUzB6MnJGSGtWN3owZ3NPVW1aTGhzdThNZTRQc05zZ2lEMkxQTFU4ZjFkQ2N2NVp
+[2025-10-24 17:25:13] Fallback Playwright for #28 (reason: consent_block)
+[2025-10-24 17:25:14] OK (playwright) #28 -> 126 words approx.
+[2025-10-24 17:25:15] [29/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2h4MTN2bnZsamRvTHhXZ282eTFOd0xmU2lURHRXc0lvd2h2ZTRkM21QWjVTd25vQ3U
+[2025-10-24 17:25:16] Fallback Playwright for #29 (reason: consent_block)
+[2025-10-24 17:25:18] OK (playwright) #29 -> 126 words approx.
+[2025-10-24 17:25:19] [30/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1JrYkRMV210TTlfd0x1b01xaWo3UmlZNHdXMWk1bmpWazZtdE5va0k2MU1mb0pFZnh
+[2025-10-24 17:25:19] Fallback Playwright for #30 (reason: consent_block)
+[2025-10-24 17:25:21] OK (playwright) #30 -> 126 words approx.
+[2025-10-24 17:25:21] [31/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE1scEt0YVpIM004R2plbzBIMFdMUWk0OGlBZnl4T0JUNzEtR3F3eF84WjlIYVRkLTZ4M2V
+[2025-10-24 17:25:22] Fallback Playwright for #31 (reason: consent_block)
+[2025-10-24 17:25:23] OK (playwright) #31 -> 126 words approx.
+[2025-10-24 17:25:25] [32/135] Try requests -> https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1QxMHJXelNNU083U0lIdGVSVkN5Umh3WXRJZmYtVVlVcXVJNkZnczZPM1U0ZlpaaDZ
+[2025-10-24 17:25:25] Fallback Playwright for #32 (reason: consent_block)
+[2025-10-24 17:25:27] OK (playwright) #32 -> 126 words approx.
+[2025-10-24 17:25:28] [33/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWl6RTZ6aVZNVkk2OGFrVVFCdnBPc2dvVjhkekd1aDBWaDdJSmJ3VFRBdC0tYlQ1QXl
+[2025-10-24 17:25:28] Fallback Playwright for #33 (reason: consent_block)
+[2025-10-24 17:25:30] OK (playwright) #33 -> 126 words approx.
+[2025-10-24 17:25:31] [34/135] Try requests -> https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWZZRjlRdFZEeHdfNTI3WlpnNkpVUmI5VVBLRVZ1ckZQZnRnbzE0SWh0eWZnUWNQcDh
+[2025-10-24 17:25:32] Fallback Playwright for #34 (reason: consent_block)
+[2025-10-24 17:25:33] OK (playwright) #34 -> 126 words approx.
+[2025-10-24 17:25:34] [35/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxOci00WU5ETzhKYmZReGowNnlpejVoWnpvNTluUE9rTVFfcU1XSlBPWHZ0eHV5dmxtZW9
+[2025-10-24 17:25:34] Fallback Playwright for #35 (reason: consent_block)
+[2025-10-24 17:25:36] OK (playwright) #35 -> 126 words approx.
+[2025-10-24 17:25:37] [36/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUZXeC1PM3dOSE0ybUxpZUoxSFBfVkJOc2JoUG1FaWZYX2RWR2FtVktySHU0empCRnd
+[2025-10-24 17:25:37] Fallback Playwright for #36 (reason: consent_block)
+[2025-10-24 17:25:39] OK (playwright) #36 -> 126 words approx.
+[2025-10-24 17:25:39] [37/135] Try requests -> https://news.google.com/rss/articles/CBMie0FVX3lxTE1JM0VCTzdjMVU4WmNJSzdoVGV2TnE3TG5fVFhLaFRadnlmTjlJTHlSZmt6Y3NOZmxoQll
+[2025-10-24 17:25:40] Fallback Playwright for #37 (reason: consent_block)
+[2025-10-24 17:25:42] OK (playwright) #37 -> 126 words approx.
+[2025-10-24 17:25:43] [38/135] Try requests -> https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlNPOFdkV2ZmdDUwdHBMQkxZZ2wza3Vhc1JsOUVpLUFtZlVFUW9GTzJSeEpxOVNrSGF
+[2025-10-24 17:25:44] Fallback Playwright for #38 (reason: consent_block)
+[2025-10-24 17:25:45] OK (playwright) #38 -> 126 words approx.
+[2025-10-24 17:25:46] [39/135] Try requests -> https://news.google.com/rss/articles/CBMimwFBVV95cUxNODBGY3YyWnF0Y2EzY21ySUNRUEx2S29xbnNrWlloeVdOSGNMd1N1SjZFZjA1VlpXbEh
+[2025-10-24 17:25:46] Fallback Playwright for #39 (reason: consent_block)
+[2025-10-24 17:25:48] OK (playwright) #39 -> 126 words approx.
+[2025-10-24 17:25:48] [40/135] Try requests -> https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0VZZ3Z5RXlJWUpRSkdiMXZQTG5BUTBzNUNVMTJxUklOSF9hR3poOVhYV1lyVy0zSFV
+[2025-10-24 17:25:49] Fallback Playwright for #40 (reason: consent_block)
+[2025-10-24 17:25:50] OK (playwright) #40 -> 126 words approx.
+[2025-10-24 17:25:51] [41/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUJmWV9TNFpUcWtfaDhCOUh0dE1odTkyeTJrT0VzSUtFSnJDQ05jTWlyMFJ0WENkQ0l
+[2025-10-24 17:25:52] Fallback Playwright for #41 (reason: consent_block)
+[2025-10-24 17:25:53] OK (playwright) #41 -> 126 words approx.
+[2025-10-24 17:25:54] [42/135] Try requests -> https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnRrYlh5NW1qWTdJVm40Q0ZrelE0WHB6ZEZubVhodU5TclQ2aFY2ZXN5a0JlMk5rQkw
+[2025-10-24 17:25:54] Fallback Playwright for #42 (reason: consent_block)
+[2025-10-24 17:25:56] OK (playwright) #42 -> 126 words approx.
+[2025-10-24 17:25:57] [43/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekNaamlpYTg4Y2I0TFBFbWlpV2RvQ3FiRnRuOVRWRUozenRha1IwODZ0eGVXZ2JmZUt
+[2025-10-24 17:25:57] Fallback Playwright for #43 (reason: consent_block)
+[2025-10-24 17:25:59] OK (playwright) #43 -> 126 words approx.
+[2025-10-24 17:25:59] [44/135] Try requests -> https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWh0SXk1Z1NNbmRqclNCZzZjREZSdjBzNV9QZ2RyRmxoOWtIRFB0VkF5RVU1Uzd5UkF
+[2025-10-24 17:26:00] Fallback Playwright for #44 (reason: consent_block)
+[2025-10-24 17:26:02] OK (playwright) #44 -> 126 words approx.
+[2025-10-24 17:26:03] [45/135] Try requests -> https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmRRWm1rRkxxSlg0bk5sa2lGT2JHZklEaFJjZzV0WVllVy1JVTlfaUdjbzVFVk1teUF
+[2025-10-24 17:26:03] Fallback Playwright for #45 (reason: consent_block)
+[2025-10-24 17:26:05] OK (playwright) #45 -> 126 words approx.
+[2025-10-24 17:26:06] [46/135] Try requests -> https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnJqb1dOOHRUUmwxV05iM0VHZ2JINjNBOG5ELXY4YVF1Z1lCQk05YnF5aTgtYWFTYVJ
+[2025-10-24 17:26:07] Fallback Playwright for #46 (reason: consent_block)
+[2025-10-24 17:26:08] OK (playwright) #46 -> 126 words approx.
+[2025-10-24 17:26:09] [47/135] Try requests -> https://news.google.com/rss/articles/CBMizwFBVV95cUxPTUkxSHNBM3JiMnZVdTg0dm1vYXgzOTcyRDRaeDkxVTNYY1ZYRFhKRGNUSDd2TFRRYnV
+[2025-10-24 17:26:10] Fallback Playwright for #47 (reason: consent_block)
+[2025-10-24 17:26:11] OK (playwright) #47 -> 126 words approx.
+[2025-10-24 17:26:12] [48/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0xxTW1TRmdPVUV2bGprSUREQWJvU2xfN1FIRjQ4S2plNWF4RWVYVm9GdVRXb0hBYjc
+[2025-10-24 17:26:13] Fallback Playwright for #48 (reason: consent_block)
+[2025-10-24 17:26:14] OK (playwright) #48 -> 126 words approx.
+[2025-10-24 17:26:15] [49/135] Try requests -> https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFJ4Z29mcVdTOHlMQzVOak5HWnEzSWJ6OEZIeEV1UjNqbnNNWll2TDZNMFNrelNrSUV
+[2025-10-24 17:26:16] Fallback Playwright for #49 (reason: consent_block)
+[2025-10-24 17:26:17] OK (playwright) #49 -> 126 words approx.
+[2025-10-24 17:26:18] [50/135] Try requests -> https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWElweEpRUEYydUhRemFNVWRBZTdYQnFleVpPRkQtVDdzNERkcGhFeFJtbTlYcmN3Nmd
+[2025-10-24 17:26:19] Fallback Playwright for #50 (reason: consent_block)
+[2025-10-24 17:26:20] OK (playwright) #50 -> 126 words approx.
+[2025-10-24 17:26:21] [51/135] Try requests -> https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2YwZzhEN1VfRHVYTDdGNkFCQ3IxV2Z0aVZETlRaS0VUZ0VkZm8xVk55Q0VjN05QRXR
+[2025-10-24 17:26:22] Fallback Playwright for #51 (reason: consent_block)
+[2025-10-24 17:26:24] OK (playwright) #51 -> 126 words approx.
+[2025-10-24 17:26:24] [52/135] Try requests -> https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGFBUFUwTjBQa2YxVkFuQ2dsd3FGTG5NRVFGN203WFNMMC1mNmlSNks4TTFKd1JfcV9
+[2025-10-24 17:26:25] Fallback Playwright for #52 (reason: consent_block)
+[2025-10-24 17:26:26] OK (playwright) #52 -> 126 words approx.
+[2025-10-24 17:26:27] [53/135] Try requests -> https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlVBRU9CNGNfLXhHQmk5Qzk1TThmWnlOdVBzY2JRZ0Y2M01MczdlajVXRXlSM3VNTnl
+[2025-10-24 17:26:28] Fallback Playwright for #53 (reason: consent_block)
+[2025-10-24 17:26:29] OK (playwright) #53 -> 126 words approx.
+[2025-10-24 17:26:30] [54/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxPTklpMVpTUFJhRmxyMkIzYzlEVWtRREtqbTcyODFKM05OWHRyREgzeHFHTExjZFd3NTJ
+[2025-10-24 17:26:31] Fallback Playwright for #54 (reason: consent_block)
+[2025-10-24 17:26:32] OK (playwright) #54 -> 126 words approx.
+[2025-10-24 17:26:34] [55/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUVCZGhYUU9hUVRPRUYxcWRzZEZvcVgxb0QtVkpremgwV2JZNVpuelNqdmNtTWVXWlp
+[2025-10-24 17:26:34] Fallback Playwright for #55 (reason: consent_block)
+[2025-10-24 17:26:36] OK (playwright) #55 -> 126 words approx.
+[2025-10-24 17:26:37] [56/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnppclQ0cjVwMDk4aTJrRXA3azVING9HQm50bnNPNFNOQXFPVlVBY2lwSzc3V1JTZFB
+[2025-10-24 17:26:37] Fallback Playwright for #56 (reason: consent_block)
+[2025-10-24 17:26:39] OK (playwright) #56 -> 126 words approx.
+[2025-10-24 17:26:40] [57/135] Try requests -> https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjU0RG5FY00zUTc3YlFRSmxtWjNIa1lSQzJyQzhXcFUtYjJ2WHUtZGxfT1hyMHp5dUd
+[2025-10-24 17:26:41] Fallback Playwright for #57 (reason: consent_block)
+[2025-10-24 17:26:42] OK (playwright) #57 -> 126 words approx.
+[2025-10-24 17:26:42] [58/135] Try requests -> https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1FjR1dhTi1kWWhMejRHd1RaWTM4dUpHZzNsenluRFVjM042T3Awc1E4bGhtckhzZVh
+[2025-10-24 17:26:43] Fallback Playwright for #58 (reason: consent_block)
+[2025-10-24 17:26:45] OK (playwright) #58 -> 126 words approx.
+[2025-10-24 17:26:46] [59/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGg4d2h0OEZlU3ZkZ3NFTmFMbFFqeXVmb3pkNjhfckoxTmpsSEJNaHdScC0yLXBaTGR
+[2025-10-24 17:26:46] Fallback Playwright for #59 (reason: consent_block)
+[2025-10-24 17:26:48] OK (playwright) #59 -> 126 words approx.
+[2025-10-24 17:26:49] [60/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSW8wdGxEZEdYcHhuR1B3Q1ppMS1BeDc3cmJqVE9YT1NhS1V0WGpHUkVTVlg2MUZvMkZ
+[2025-10-24 17:26:50] Fallback Playwright for #60 (reason: consent_block)
+[2025-10-24 17:26:51] OK (playwright) #60 -> 126 words approx.
+[2025-10-24 17:26:52] [61/135] Try requests -> https://news.google.com/rss/articles/CBMilwFBVV95cUxPYW0tVkJWSHQ5RjVZRTJoXy1nOFFjWXRiNEViVzk5M1Bocm1jZ3E2Ry1MMDI2RFJGWkl
+[2025-10-24 17:26:52] Fallback Playwright for #61 (reason: consent_block)
+[2025-10-24 17:26:54] OK (playwright) #61 -> 126 words approx.
+[2025-10-24 17:26:54] [62/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU04Ny1XZE9PSzFndUxoLS1VZGpfRUw0UGw1eG9VeThQVXVUMEpCSTlxanA0T2tKUG5
+[2025-10-24 17:26:55] Fallback Playwright for #62 (reason: consent_block)
+[2025-10-24 17:26:57] OK (playwright) #62 -> 126 words approx.
+[2025-10-24 17:26:57] [63/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVR1eTZ5aG9KRkJlekhVYXFaa2RFVGpfM25kYklRaW83LTQ1X3hERXdjb3FlYWowLVB
+[2025-10-24 17:26:58] Fallback Playwright for #63 (reason: consent_block)
+[2025-10-24 17:26:59] OK (playwright) #63 -> 126 words approx.
+[2025-10-24 17:27:00] [64/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2RFQkp3eDQtNnJYeGZOLVgyYmxnRFZaRnBpckxGeWZtNW1pVXA5ODlRbWJGVjR4TmE
+[2025-10-24 17:27:01] Fallback Playwright for #64 (reason: consent_block)
+[2025-10-24 17:27:02] OK (playwright) #64 -> 126 words approx.
+[2025-10-24 17:27:03] [65/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxOei1lM2lrajBjSUhHNzlWaTBDMjEwWElVQmJVeGQ1MXhXQTczNmh3ZzlJaWZtOHdmakF
+[2025-10-24 17:27:03] Fallback Playwright for #65 (reason: consent_block)
+[2025-10-24 17:27:05] OK (playwright) #65 -> 126 words approx.
+[2025-10-24 17:27:06] [66/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxObFdha1dSMnNWN3VUQ1A5dllUYzI5UGlJR3JNQjV4Ql90dVZaZ051dXl3eVhQRkE5UTl
+[2025-10-24 17:27:06] Fallback Playwright for #66 (reason: consent_block)
+[2025-10-24 17:27:08] OK (playwright) #66 -> 126 words approx.
+[2025-10-24 17:27:08] [67/135] Try requests -> https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjdSM3YwLTdmRmotUjBGMktHZWVVRUZoVHYxbmdzYUd1ZUpJMjNOZG1DaUt0X2NuTUV
+[2025-10-24 17:27:09] Fallback Playwright for #67 (reason: consent_block)
+[2025-10-24 17:27:11] OK (playwright) #67 -> 126 words approx.
+[2025-10-24 17:27:12] [68/135] Try requests -> https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVItQUw3VnBQY2NDZGdCY1JuNFV1MXh0bU9OaWozQWQ1cjNGRzJsQlYzUGZyMDVGeTk
+[2025-10-24 17:27:13] Fallback Playwright for #68 (reason: consent_block)
+[2025-10-24 17:27:14] OK (playwright) #68 -> 126 words approx.
+[2025-10-24 17:27:15] [69/135] Try requests -> https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1F3WnJLSm9BdHd4WVFGOXpodV9fY211T0N0bmdwRFpRbTdzM2lGQWVoNlB4UjVzWDR
+[2025-10-24 17:27:16] Fallback Playwright for #69 (reason: consent_block)
+[2025-10-24 17:27:17] OK (playwright) #69 -> 126 words approx.
+[2025-10-24 17:27:18] [70/135] Try requests -> https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2dkUW03VHJuSE9WRndVajhMMFp5eVdNeVRzRTl1UU5sT29ST1NTb2ZqOExRckpSN2R
+[2025-10-24 17:27:19] Fallback Playwright for #70 (reason: consent_block)
+[2025-10-24 17:27:20] OK (playwright) #70 -> 126 words approx.
+[2025-10-24 17:27:21] [71/135] Try requests -> https://news.google.com/rss/articles/CBMijgFBVV95cUxQb05PR2ZDS08yMERTRmdDMjdSQlJyMDhfSWFIbi05THczRlpzY3U0MDBZRGFPclVFQU4
+[2025-10-24 17:27:21] Fallback Playwright for #71 (reason: consent_block)
+[2025-10-24 17:27:23] OK (playwright) #71 -> 126 words approx.
+[2025-10-24 17:27:23] [72/135] Try requests -> https://news.google.com/rss/articles/CBMixgFBVV95cUxPNmFULVdRa0I0eXJCT3FqSkdIVFhfZGVDRjlZb3BZekJKTHAxLWZjX1VodFNZLUYwcko
+[2025-10-24 17:27:24] Fallback Playwright for #72 (reason: consent_block)
+[2025-10-24 17:27:26] OK (playwright) #72 -> 126 words approx.
+[2025-10-24 17:27:26] [73/135] Try requests -> https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1hURFpfY3hYRTlWNzVZOXFXT1ZtZlR3akR5OGtLR2JhYTFjRnFyQ0xHd3M1UDlDTmt
+[2025-10-24 17:27:27] Fallback Playwright for #73 (reason: consent_block)
+[2025-10-24 17:27:28] OK (playwright) #73 -> 126 words approx.
+[2025-10-24 17:27:29] [74/135] Try requests -> https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0tDQkc2WWxac1NmcDB2c2plQURHdmM3Zjh6T0R2SFZDNVI0aTRLZk9PdjFGbjZUNFI
+[2025-10-24 17:27:30] Fallback Playwright for #74 (reason: consent_block)
+[2025-10-24 17:27:31] OK (playwright) #74 -> 126 words approx.
+[2025-10-24 17:27:32] [75/135] Try requests -> https://news.google.com/rss/articles/CBMizAFBVV95cUxPcE1pR0RvT1VOZDdNTVZFLVVuS2ZWT1F2d3IzRWJQZ1FTcGM5QmlTbVhVeWdua3o4a1N
+[2025-10-24 17:27:33] Fallback Playwright for #75 (reason: consent_block)
+[2025-10-24 17:27:34] OK (playwright) #75 -> 126 words approx.
+[2025-10-24 17:27:35] [76/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUdPT1lBMm84Nko3NHRfZEQ4TG15VVRMaFMyb2dBS0JwUGhkZ0d5UUZFVXJTVUNvYTJ
+[2025-10-24 17:27:36] Fallback Playwright for #76 (reason: consent_block)
+[2025-10-24 17:27:37] OK (playwright) #76 -> 126 words approx.
+[2025-10-24 17:27:37] [77/135] Try requests -> https://news.google.com/rss/articles/CBMizAFBVV95cUxOZzI5LVlJMUJUc3AxRF9FNDF0TzJwc1pwb2lVeHYwUzU4Qll1RDNFd0dMQlRidndCbld
+[2025-10-24 17:27:38] Fallback Playwright for #77 (reason: consent_block)
+[2025-10-24 17:27:39] OK (playwright) #77 -> 126 words approx.
+[2025-10-24 17:27:40] [78/135] Try requests -> https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ0xOa2JjU3RhMmlTTnBkcXQ1UDJkNkV3SjZJRTJkZVJPV0RGVkp6Yk56THFXYVJ2SG0
+[2025-10-24 17:27:41] Fallback Playwright for #78 (reason: consent_block)
+[2025-10-24 17:27:42] OK (playwright) #78 -> 126 words approx.
+[2025-10-24 17:27:43] [79/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTROMXRpWC1NdWNDbHljVW51c2pmdUJDQlFCbi16WkRiYVZBVUVKcDhUQXhWb0RVdlp
+[2025-10-24 17:27:44] Fallback Playwright for #79 (reason: consent_block)
+[2025-10-24 17:27:45] OK (playwright) #79 -> 126 words approx.
+[2025-10-24 17:27:46] [80/135] Try requests -> https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnB1Tk96UHVpeE5aRUlBdjNYMXdfSnV3dDFTQTVpMXc5bXNaVElabXhINWROekRRWk1
+[2025-10-24 17:27:47] Fallback Playwright for #80 (reason: consent_block)
+[2025-10-24 17:27:48] OK (playwright) #80 -> 126 words approx.
+[2025-10-24 17:27:49] [81/135] Try requests -> https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTFnSnFLb1FIRFJMZkVGbjlJRXRSUzJCTi1idHlreWxJQnh6WGJLWVdJVmFKbXltS1Y
+[2025-10-24 17:27:50] Fallback Playwright for #81 (reason: consent_block)
+[2025-10-24 17:27:51] OK (playwright) #81 -> 126 words approx.
+[2025-10-24 17:27:52] [82/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdENCNE92SmNRQkRkbFZxTVEzc2hJNzg2NlVOQ2pMclU3ODk2aGkxVDY3MzZ2VFNGcmd
+[2025-10-24 17:27:53] Fallback Playwright for #82 (reason: consent_block)
+[2025-10-24 17:27:54] OK (playwright) #82 -> 126 words approx.
+[2025-10-24 17:27:55] [83/135] Try requests -> https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlVqN0NSelV5WjB2NkllMjFuZjVOT21Nbm1yNlFWWEFReEN6ZUNsX1RLOWpqb0xuVHB
+[2025-10-24 17:27:56] Fallback Playwright for #83 (reason: consent_block)
+[2025-10-24 17:27:57] OK (playwright) #83 -> 126 words approx.
+[2025-10-24 17:27:58] [84/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEpBbGlrT2lCMnlsSzNLbjcyVU9qTEd0RmstZmNBZkdndWo2Y1pXMEtZeHhFZ3dmZ1l
+[2025-10-24 17:27:59] Fallback Playwright for #84 (reason: consent_block)
+[2025-10-24 17:28:00] OK (playwright) #84 -> 126 words approx.
+[2025-10-24 17:28:01] [85/135] Try requests -> https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVdxRTZ4TzFZTk9zV2RocW9laG01VWVnX2V5UmVsYUdmSjNWdVdPRFFpaFZMTHFfaHo
+[2025-10-24 17:28:01] Fallback Playwright for #85 (reason: consent_block)
+[2025-10-24 17:28:03] OK (playwright) #85 -> 126 words approx.
+[2025-10-24 17:28:03] [86/135] Try requests -> https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjNFanVfX0ZhN3J4akV5NUpEYi1nR0FwRF9peTdVMEZwSW1VQjhUaFZ3NXpVTlptU1p
+[2025-10-24 17:28:04] Fallback Playwright for #86 (reason: consent_block)
+[2025-10-24 17:28:06] OK (playwright) #86 -> 126 words approx.
+[2025-10-24 17:28:07] [87/135] Try requests -> https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVAtckEzbXFYS1BGUXdaa0Zxb3U2Zm1PQThGSXdYZS1XNVNwV2g5Tk4xSTZxMGdRaC0
+[2025-10-24 17:28:07] Fallback Playwright for #87 (reason: consent_block)
+[2025-10-24 17:28:09] OK (playwright) #87 -> 126 words approx.
+[2025-10-24 17:28:10] [88/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0tLMnMxekpvRm9pZU1wUEwwY2ZEbWxyLVdvd2xPd21paFVoMjZZZkFUNXBQYTJnRFB
+[2025-10-24 17:28:10] Fallback Playwright for #88 (reason: consent_block)
+[2025-10-24 17:28:12] OK (playwright) #88 -> 126 words approx.
+[2025-10-24 17:28:12] [89/135] Try requests -> https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGtncVlFbnh3eWxGM2wtamItcVg5WXpULTRyTEJMOERXRnY2d25zdXVtZXNodGk1X3p
+[2025-10-24 17:28:13] Fallback Playwright for #89 (reason: consent_block)
+[2025-10-24 17:28:14] OK (playwright) #89 -> 126 words approx.
+[2025-10-24 17:28:15] [90/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUxPOGEyS3JYeGI2MUtRV01Sa3A4b0pmZmRJS2dRV1M0TXoxNzRkTXlhVXVBRmx3MGF
+[2025-10-24 17:28:16] Fallback Playwright for #90 (reason: consent_block)
+[2025-10-24 17:28:17] OK (playwright) #90 -> 126 words approx.
+[2025-10-24 17:28:18] [91/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGMtWXRNX2pvaVd3QlJSdGZhYzUtZzF2bXhLc2tjYi1YSFN0T1VjVEJxSmVYd3NZOGc
+[2025-10-24 17:28:19] Fallback Playwright for #91 (reason: consent_block)
+[2025-10-24 17:28:20] OK (playwright) #91 -> 126 words approx.
+[2025-10-24 17:28:21] [92/135] Try requests -> https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFhpaEV5T0tIOGZhNVpwU19aZjlIYWFPWGlWTVFGRXVNbTJfbzhJRjJqUmRZSGVQMTR
+[2025-10-24 17:28:22] Fallback Playwright for #92 (reason: consent_block)
+[2025-10-24 17:28:23] OK (playwright) #92 -> 126 words approx.
+[2025-10-24 17:28:24] [93/135] Try requests -> https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkZBZkRfcDZyRWpwVEJaeFdnLW5aRXVvQmJ6VTlfd25leXJSa3FzcDlrS3lLYjBIM2N
+[2025-10-24 17:28:25] Fallback Playwright for #93 (reason: consent_block)
+[2025-10-24 17:28:26] OK (playwright) #93 -> 126 words approx.
+[2025-10-24 17:28:27] [94/135] Try requests -> https://news.google.com/rss/articles/CBMivwFBVV95cUxONi1wbF9aNEo5Mng5QThVeWYzUm8xMnFJRDQ1TlBEVHo2Q3FNaEVZeU5VYzhDQ3F4eHQ
+[2025-10-24 17:28:28] Fallback Playwright for #94 (reason: consent_block)
+[2025-10-24 17:28:29] OK (playwright) #94 -> 126 words approx.
+[2025-10-24 17:28:30] [95/135] Try requests -> https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW94NnVzRk5rWlNwdHUxWTR4MzR6eERQRmMtNXhBMjNINkpqdWhKRmNkaVhEMEZpVDR
+[2025-10-24 17:28:31] Fallback Playwright for #95 (reason: consent_block)
+[2025-10-24 17:28:32] OK (playwright) #95 -> 126 words approx.
+[2025-10-24 17:28:33] [96/135] Try requests -> https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXlKWmY0WGpRNkRyRm5uYXRxZWEtZlktMkRPZDlfLUhBWFgweEVMeG5ZVUM3MFRweGF
+[2025-10-24 17:28:33] Fallback Playwright for #96 (reason: consent_block)
+[2025-10-24 17:28:35] OK (playwright) #96 -> 126 words approx.
+[2025-10-24 17:28:36] [97/135] Try requests -> https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFFiWGczZ1A0MVNkOUk0UDdNM2dkR21sYU9NZEZISFp1UThMSHQwdzlMYUw3NjI0Y2h
+[2025-10-24 17:28:37] Fallback Playwright for #97 (reason: consent_block)
+[2025-10-24 17:28:38] OK (playwright) #97 -> 126 words approx.
+[2025-10-24 17:28:39] [98/135] Try requests -> https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmdCMmZCeF9xaEw1Q0JyVXpleWVGcUliXzQ3VlJXRDNmbDRRWTBlWU9PN1ZxYzdmVmp
+[2025-10-24 17:28:40] Fallback Playwright for #98 (reason: consent_block)
+[2025-10-24 17:28:41] OK (playwright) #98 -> 126 words approx.
+[2025-10-24 17:28:42] [99/135] Try requests -> https://news.google.com/rss/articles/CBMivAFBVV95cUxQRExWTHc3bHZsX0lPRzl6Z2ZURlc1alhYdHpsbVZWX1RnM1k0cDdDdFA4VVdaUG1PV1V
+[2025-10-24 17:28:43] Fallback Playwright for #99 (reason: consent_block)
+[2025-10-24 17:28:44] OK (playwright) #99 -> 126 words approx.
+[2025-10-24 17:28:45] [100/135] Try requests -> https://news.google.com/rss/articles/CBMixgFBVV95cUxNa25NSzZYc1R2OUlrRG1jV0hncFNXOVZyWUl3LV9OLXV3ak5manZGTUFiMGw1ZzAwZTd
+[2025-10-24 17:28:46] Fallback Playwright for #100 (reason: consent_block)
+[2025-10-24 17:28:48] OK (playwright) #100 -> 126 words approx.
+[2025-10-24 17:28:48] [101/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDdzMjZxZk5mT0tVVWFMeWp5QjZWTTNmYTZFS29LYlVsRTBzRFBQdFhfUkdFMkd3d2Q
+[2025-10-24 17:28:49] Fallback Playwright for #101 (reason: consent_block)
+[2025-10-24 17:28:50] OK (playwright) #101 -> 126 words approx.
+[2025-10-24 17:28:51] [102/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkYyVjZVc0ZiMEtSdmVpYm1YdUZLRWN1b2tqVmVGQUVQbW9sM0kweGQ0ZE80SE1DTFN
+[2025-10-24 17:28:52] Fallback Playwright for #102 (reason: consent_block)
+[2025-10-24 17:28:53] OK (playwright) #102 -> 126 words approx.
+[2025-10-24 17:28:54] [103/135] Try requests -> https://news.google.com/rss/articles/CBMisAFBVV95cUxPekJ2SXdTTzdWV0NlUkVVWHB3enFKWHEtVmpxekMwaXQxNmw5cC1kZ0FEUS1qYjJlaXo
+[2025-10-24 17:28:55] Fallback Playwright for #103 (reason: consent_block)
+[2025-10-24 17:28:56] OK (playwright) #103 -> 126 words approx.
+[2025-10-24 17:28:57] [104/135] Try requests -> https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGlzcC1qTmh6cHZkMm16ZUY5RlJUcFhNemp6WllCcVE3d0JCODNfQXhkNnVEOFZNaEI
+[2025-10-24 17:28:58] Fallback Playwright for #104 (reason: consent_block)
+[2025-10-24 17:28:59] OK (playwright) #104 -> 126 words approx.
+[2025-10-24 17:29:00] [105/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXRrXzUwRURtTUpBRGxRM1pac21kZG1wTGJKek1DRWZ1dUw5ZGFHZXBDYU9Pb2lVQ2w
+[2025-10-24 17:29:01] Fallback Playwright for #105 (reason: consent_block)
+[2025-10-24 17:29:02] OK (playwright) #105 -> 126 words approx.
+[2025-10-24 17:29:03] [106/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGphS1VHZUhXNmhja2FzYkJhV1JzbEFmR0UxY2ROUEFmMTl1eHJvcklweUd3NGNpSm1
+[2025-10-24 17:29:04] Fallback Playwright for #106 (reason: consent_block)
+[2025-10-24 17:29:05] OK (playwright) #106 -> 126 words approx.
+[2025-10-24 17:29:06] [107/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cd0NMTTR4aXNqanJ4NVM2ZU16cmdqaXptMlBjS3VpNENZeHZUdEV1X0dhaDdSSk1QLTF
+[2025-10-24 17:29:07] Fallback Playwright for #107 (reason: consent_block)
+[2025-10-24 17:29:08] OK (playwright) #107 -> 126 words approx.
+[2025-10-24 17:29:09] [108/135] Try requests -> https://news.google.com/rss/articles/CBMizAFBVV95cUxOaU5zOHhiTjlWY0gweTJsQ1E0S3pBVE5ndFMtRElMVUxua0VoOElrNGl5ME01UHdrbDR
+[2025-10-24 17:29:10] Fallback Playwright for #108 (reason: consent_block)
+[2025-10-24 17:29:11] OK (playwright) #108 -> 126 words approx.
+[2025-10-24 17:29:12] [109/135] Try requests -> https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzNHOWh6ZXU4eVFXXzkxRlA5alBDZk5uRF9MazNGSXZtTWo1VVJOTXNIUHlFQ21rczh
+[2025-10-24 17:29:13] Fallback Playwright for #109 (reason: consent_block)
+[2025-10-24 17:29:14] OK (playwright) #109 -> 126 words approx.
+[2025-10-24 17:29:15] [110/135] Try requests -> https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHTk1Ud0NUS18yb0JEU29ial9pVjhVLU5ERk9CdEQxOWJsNmJxMkppYXJhcnc4X181cFZ
+[2025-10-24 17:29:16] Fallback Playwright for #110 (reason: consent_block)
+[2025-10-24 17:29:17] OK (playwright) #110 -> 126 words approx.
+[2025-10-24 17:29:18] [111/135] Try requests -> https://news.google.com/rss/articles/CBMivwFBVV95cUxNeW1wLXZObnhtaTdRMFhZd3VrVmVFaHFUUmhRQTdVNExlNEtQaWJQUk9ZQ2hMNHJvR2p
+[2025-10-24 17:29:19] Fallback Playwright for #111 (reason: consent_block)
+[2025-10-24 17:29:20] OK (playwright) #111 -> 126 words approx.
+[2025-10-24 17:29:20] [112/135] Try requests -> https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXJ2RHpEWmVPZHBIQVQ4dGwtRk9PaE9qSWRaM1pFa1BhWHJrTGg0NzhMbzUxSjVMR0Q
+[2025-10-24 17:29:21] Fallback Playwright for #112 (reason: consent_block)
+[2025-10-24 17:29:23] OK (playwright) #112 -> 126 words approx.
+[2025-10-24 17:29:23] [113/135] Try requests -> https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWFiRHZHYjhFQUlsaEJzUzhISlIwcWFxY00tSnotZnhzOHZZaHRhd2VZaUZGdTktUzA
+[2025-10-24 17:29:24] Fallback Playwright for #113 (reason: consent_block)
+[2025-10-24 17:29:26] OK (playwright) #113 -> 126 words approx.
+[2025-10-24 17:29:27] [114/135] Try requests -> https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2dMc1lkcTRsQ0hwc0lPOG1yQzlLQ3dreVFqc3lwV2xxbHYyYjlLUGJEWElSOUkwMlJ
+[2025-10-24 17:29:27] Fallback Playwright for #114 (reason: consent_block)
+[2025-10-24 17:29:29] OK (playwright) #114 -> 126 words approx.
+[2025-10-24 17:29:30] [115/135] Try requests -> https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2YyZmQxY2VTbnllU2NLZExldTlGLXZfQ0hfR3YtdUkzXzJCSkVhTjNpdzNOeWR3U0N
+[2025-10-24 17:29:31] Fallback Playwright for #115 (reason: consent_block)
+[2025-10-24 17:29:32] OK (playwright) #115 -> 126 words approx.
+[2025-10-24 17:29:33] [116/135] Try requests -> https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVAydHpabEp4dldXOEs4T1c1azBWVHVtQlVXLVlvSjk5ZXRwR3IycVRhdmxTSEgwLWw
+[2025-10-24 17:29:34] Fallback Playwright for #116 (reason: consent_block)
+[2025-10-24 17:29:35] OK (playwright) #116 -> 126 words approx.
+[2025-10-24 17:29:36] [117/135] Try requests -> https://news.google.com/rss/articles/CBMitwFBVV95cUxOenkyM05sTjlIS2ZUc3hCZkNmeklJd25MSW5wcnJUQUVWWEpYZV9sbGJ0VjFtaVZKUk5
+[2025-10-24 17:29:37] Fallback Playwright for #117 (reason: consent_block)
+[2025-10-24 17:29:38] OK (playwright) #117 -> 126 words approx.
+[2025-10-24 17:29:39] [118/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk0tVjJUWml5djE3WEhqMFducjNBVEZ4QzBtbEx3MmtCTHduTUgyUnYzYWdYRmRfVkF
+[2025-10-24 17:29:40] Fallback Playwright for #118 (reason: consent_block)
+[2025-10-24 17:29:41] OK (playwright) #118 -> 126 words approx.
+[2025-10-24 17:29:42] [119/135] Try requests -> https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEdqLUR4SG5SeGhyaGVTQm12NUg4OVBCMmdKaXMzcjFfZkl3MG1TREhDT21xVENfNFh
+[2025-10-24 17:29:43] Fallback Playwright for #119 (reason: consent_block)
+[2025-10-24 17:29:44] OK (playwright) #119 -> 126 words approx.
+[2025-10-24 17:29:45] [120/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRVJORUJXb0JnX3lrOXRsTWRzcnBxWE9mVjNwUEd0T0k5S2ozSWtkMFNEcmZUQlBzVll
+[2025-10-24 17:29:46] Fallback Playwright for #120 (reason: consent_block)
+[2025-10-24 17:29:47] OK (playwright) #120 -> 126 words approx.
+[2025-10-24 17:29:48] [121/135] Try requests -> https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0JjUWlkREFKd1lhcTV2OXFhbi11OUItWjJCRzlaQ1lxcmw4X004YUhIa2NDQlRfVUF
+[2025-10-24 17:29:49] Fallback Playwright for #121 (reason: consent_block)
+[2025-10-24 17:29:50] OK (playwright) #121 -> 126 words approx.
+[2025-10-24 17:29:51] [122/135] Try requests -> https://news.google.com/rss/articles/CBMirgFBVV95cUxORDF3QnA0X2xJdUlWY0o2OHptVDJsdjVpc0lUaU5lanAxbFFyeDRnZng2ekFpSG5YM28
+[2025-10-24 17:29:52] Fallback Playwright for #122 (reason: consent_block)
+[2025-10-24 17:29:53] OK (playwright) #122 -> 126 words approx.
+[2025-10-24 17:29:54] [123/135] Try requests -> https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGIybmw1MDN1SjJwOEZaZjEtczNvXzVCT2F4U3VKZTR0c2FqdGdSRFVIb3RTQW9YaFZ
+[2025-10-24 17:29:55] Fallback Playwright for #123 (reason: consent_block)
+[2025-10-24 17:29:56] OK (playwright) #123 -> 126 words approx.
+[2025-10-24 17:29:57] [124/135] Try requests -> https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVVoZUtnWnd6UU1BWFR3YWU2Nmo2YTBOeTFVN0Zydk0tOU1nWHU1X3JXMmFwX0c3Wkh
+[2025-10-24 17:29:57] Fallback Playwright for #124 (reason: consent_block)
+[2025-10-24 17:29:59] OK (playwright) #124 -> 126 words approx.
+[2025-10-24 17:29:59] [125/135] Try requests -> https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1hITFlDNTRHejhVRlh4eFppRGhTZWxTQzBEOV9taTNra2VyajVBaXpIREtvb2tsb0R
+[2025-10-24 17:30:00] Fallback Playwright for #125 (reason: consent_block)
+[2025-10-24 17:30:01] OK (playwright) #125 -> 126 words approx.
+[2025-10-24 17:30:02] [126/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTWtsdkhUVnl1V282MnBYTHlBRlZ6QWRCbU45UC1pc01qZll2U0hTQUJ5NjZSWlZyRXJ
+[2025-10-24 17:30:03] Fallback Playwright for #126 (reason: consent_block)
+[2025-10-24 17:30:05] OK (playwright) #126 -> 126 words approx.
+[2025-10-24 17:30:05] [127/135] Try requests -> https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NIc1BTUDRveldWMHRaX0daZEpwUVRQYldIU1ZQd09GVWFGckcwdWpOX1lIQ0Y3OFo
+[2025-10-24 17:30:06] Fallback Playwright for #127 (reason: consent_block)
+[2025-10-24 17:30:07] OK (playwright) #127 -> 126 words approx.
+[2025-10-24 17:30:08] [128/135] Try requests -> https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0hUeERpbHFJUGRVa3l5U1l6bmJhdFpzWHYxYkVBMEZFVDExaml2bTIyUVVyaHBhbUI
+[2025-10-24 17:30:09] Fallback Playwright for #128 (reason: consent_block)
+[2025-10-24 17:30:10] OK (playwright) #128 -> 126 words approx.
+[2025-10-24 17:30:11] [129/135] Try requests -> https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHB1RGExYWk1bHJCaVR6VnZUa0xfX1dVLVhURFA3UzY4NjBDVzZhbXhpbXFjY2U0SGt
+[2025-10-24 17:30:12] Fallback Playwright for #129 (reason: consent_block)
+[2025-10-24 17:30:13] OK (playwright) #129 -> 126 words approx.
+[2025-10-24 17:30:14] [130/135] Try requests -> https://news.google.com/rss/articles/CBMifEFVX3lxTE5aTG11X0Zjb0dYVXBTVXZad0F3QU5VdUhyUXpBdFlCTjYwRTFlZFM4RHpLSlcwd3VuRlQ
+[2025-10-24 17:30:14] Fallback Playwright for #130 (reason: consent_block)
+[2025-10-24 17:30:16] OK (playwright) #130 -> 126 words approx.
+[2025-10-24 17:30:17] [131/135] Try requests -> https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2xwMlMxZEpYbC1BNk1VdGxpbnVGWEhKbk9oc0UyamhTVlAxcFVrM3VjbmVFdi04bGR
+[2025-10-24 17:30:17] Fallback Playwright for #131 (reason: consent_block)
+[2025-10-24 17:30:19] OK (playwright) #131 -> 126 words approx.
+[2025-10-24 17:30:20] [132/135] Try requests -> https://news.google.com/rss/articles/CBMif0FVX3lxTE9LU1Z0RFBaVjVWQVNFcGM2b2tvd1NBbFBBZWtqZ244ZUR2WUtkQ0I3Q0hoTnVMNHRwQlB
+[2025-10-24 17:30:21] Fallback Playwright for #132 (reason: consent_block)
+[2025-10-24 17:30:22] OK (playwright) #132 -> 126 words approx.
+[2025-10-24 17:30:23] [133/135] Try requests -> https://news.google.com/rss/articles/CBMitAFBVV95cUxNamtxZGVFc1N6MWZxX01YTDYtaElYS1FMNmNGMjYtdmFlMDNicUJaaklIUmlIdEJnZlM
+[2025-10-24 17:30:24] Fallback Playwright for #133 (reason: consent_block)
+[2025-10-24 17:30:25] OK (playwright) #133 -> 126 words approx.
+[2025-10-24 17:30:26] [134/135] Try requests -> https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1RZT29qMENtUkRVUjYxMkdvdHlfaHR3TzJFZkFIeWlzMGRaWkMxcl9ac0ZQWXNWeUl
+[2025-10-24 17:30:27] Fallback Playwright for #134 (reason: consent_block)
+[2025-10-24 17:30:28] OK (playwright) #134 -> 126 words approx.
+[2025-10-24 17:30:29] [135/135] Try requests -> https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWZobngxWnBqNGpTc1NIUHBoT3dSUmpDc1A4djVFYXBfcFZpWVVVM3ZOUWdrdEI5T3p
+[2025-10-24 17:30:30] Fallback Playwright for #135 (reason: consent_block)
+[2025-10-24 17:30:31] OK (playwright) #135 -> 126 words approx.
+[2025-10-24 17:30:32] ✅ Extraction terminée : 135 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 17:30:32] Durée totale : 403.4s
+[2025-10-24 17:30:45] Données chargées : type=<class 'dict'>
+[2025-10-24 17:30:45] Articles à traiter : 135
+[2025-10-24 17:30:45] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:30:46] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:30:51] FAIL (playwright_no_content) #1
+[2025-10-24 17:30:52] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:30:52] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:30:57] FAIL (playwright_no_content) #2
+[2025-10-24 17:30:58] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:30:59] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:31:03] FAIL (playwright_no_content) #3
+[2025-10-24 17:31:03] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:31:04] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:31:08] FAIL (playwright_no_content) #4
+[2025-10-24 17:31:09] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:31:10] Fallback Playwright for #5 (reason: consent_block)
+[2025-10-24 17:31:14] FAIL (playwright_no_content) #5
+[2025-10-24 17:31:15] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:31:16] Fallback Playwright for #6 (reason: consent_block)
+[2025-10-24 17:31:20] FAIL (playwright_no_content) #6
+[2025-10-24 17:34:18] Données chargées : type=<class 'dict'>
+[2025-10-24 17:34:18] Articles à traiter : 135
+[2025-10-24 17:34:18] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:34:19] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:34:25] FAIL (playwright_no_content) #1
+[2025-10-24 17:34:26] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:34:27] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:34:33] FAIL (playwright_no_content) #2
+[2025-10-24 17:34:34] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:34:35] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:35:27] Données chargées : type=<class 'dict'>
+[2025-10-24 17:35:27] Articles à traiter : 135
+[2025-10-24 17:35:27] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:35:28] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:35:34] FAIL (playwright_no_content) #1
+[2025-10-24 17:35:35] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:35:35] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:35:42] FAIL (playwright_no_content) #2
+[2025-10-24 17:35:43] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:35:44] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:35:50] FAIL (playwright_no_content) #3
+[2025-10-24 17:35:51] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:35:51] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:35:58] FAIL (playwright_no_content) #4
+[2025-10-24 17:35:58] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:35:59] Fallback Playwright for #5 (reason: consent_block)
+[2025-10-24 17:36:57] Données chargées : type=<class 'dict'>
+[2025-10-24 17:36:57] Articles à traiter : 135
+[2025-10-24 17:36:57] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:36:58] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:37:02] FAIL (playwright_no_content) #1
+[2025-10-24 17:37:03] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:37:04] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:37:08] FAIL (playwright_no_content) #2
+[2025-10-24 17:37:57] Données chargées : type=<class 'dict'>
+[2025-10-24 17:37:57] Articles à traiter : 135
+[2025-10-24 17:37:57] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:37:58] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:38:02] FAIL (playwright_no_content) #1
+[2025-10-24 17:38:03] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:38:03] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:38:07] FAIL (playwright_no_content) #2
+[2025-10-24 17:38:08] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:38:09] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:38:13] FAIL (playwright_no_content) #3
+[2025-10-24 17:38:13] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:38:14] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:40:32] Données chargées : type=<class 'dict'>
+[2025-10-24 17:40:32] Articles à traiter : 135
+[2025-10-24 17:40:32] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:40:33] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:40:37] FAIL (playwright_no_content) #1
+[2025-10-24 17:40:37] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:40:38] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:40:42] FAIL (playwright_no_content) #2
+[2025-10-24 17:40:43] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:40:44] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:40:48] FAIL (playwright_no_content) #3
+[2025-10-24 17:40:48] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:40:49] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:40:53] FAIL (playwright_no_content) #4
+[2025-10-24 17:40:55] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:40:55] Fallback Playwright for #5 (reason: consent_block)
+[2025-10-24 17:40:59] FAIL (playwright_no_content) #5
+[2025-10-24 17:41:00] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:41:01] Fallback Playwright for #6 (reason: consent_block)
+[2025-10-24 17:44:58] Données chargées : type=<class 'dict'>
+[2025-10-24 17:44:58] Articles à traiter : 135
+[2025-10-24 17:44:58] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 17:44:58] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:44:58] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:44:59] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:45:01] OK (playwright) #1 -> approx 126 words.
+[2025-10-24 17:45:01] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFB
+[2025-10-24 17:45:02] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 17:45:04] OK (playwright) #2 -> approx 126 words.
+[2025-10-24 17:45:05] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZ
+[2025-10-24 17:45:06] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 17:45:08] OK (playwright) #3 -> approx 126 words.
+[2025-10-24 17:45:09] [4/135] Try requests -> https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc0cHY5VEZlWk9lUVNnLVpsajZoTEswWmdaS0UyWEM2RDB3a01PYTdkanl5T3EzM3Z
+[2025-10-24 17:45:09] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 17:45:11] OK (playwright) #4 -> approx 126 words.
+[2025-10-24 17:45:12] [5/135] Try requests -> https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZIa3hPRDkwRWpJWXRLU0poZ1VhX1NNNklIRzFVLVJPZWR4VjNuLUpYZEsxTVc5N3J
+[2025-10-24 17:45:13] Fallback Playwright for #5 (reason: consent_block)
+[2025-10-24 17:45:15] OK (playwright) #5 -> approx 126 words.
+[2025-10-24 17:45:16] [6/135] Try requests -> https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHIzR1ExalVMQ0FPVzFSdWx1UldmdmdaTmNMdVNMUmJHSTBRMEw1YXJ4M0ZxQVc4OWl
+[2025-10-24 17:45:17] Fallback Playwright for #6 (reason: consent_block)
+[2025-10-24 17:45:18] OK (playwright) #6 -> approx 126 words.
+[2025-10-24 17:48:11] Données chargées : type=<class 'dict'>
+[2025-10-24 17:48:11] Articles à traiter : 135
+[2025-10-24 17:48:11] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:49:16] Données chargées : type=<class 'dict'>
+[2025-10-24 17:49:16] Articles à traiter : 135
+[2025-10-24 17:49:16] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:51:46] Données chargées : type=<class 'dict'>
+[2025-10-24 17:51:46] Articles à traiter : 135
+[2025-10-24 17:51:46] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:53:16] Données chargées : type=<class 'dict'>
+[2025-10-24 17:53:16] Articles à traiter : 135
+[2025-10-24 17:53:16] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:53:16] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:53:17] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:53:24] FAIL (playwright_no_content) #1
+[2025-10-24 17:53:24] ✅ Extraction terminée : 0 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 17:53:24] ⚠️ Articles échoués : 1 (voir log pour détails)
+[2025-10-24 17:53:24] Durée totale : 8.1s
+[2025-10-24 17:55:22] Données chargées : type=<class 'dict'>
+[2025-10-24 17:55:22] Articles à traiter : 135
+[2025-10-24 17:55:22] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 17:55:22] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:55:22] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:55:23] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:55:28] FAIL (playwright_no_content) #1
+[2025-10-24 17:55:29] ✅ Extraction terminée : 0 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 17:55:29] ⚠️ Articles échoués : 1 (voir log pour détails)
+[2025-10-24 17:55:29] Durée totale : 7.0s
+[2025-10-24 17:57:01] Données chargées : type=<class 'dict'>
+[2025-10-24 17:57:01] Articles à traiter : 135
+[2025-10-24 17:57:01] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 17:57:01] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 17:57:01] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 17:57:02] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 17:57:15] FAIL (playwright_no_content) #1
+[2025-10-24 17:57:16] ✅ Extraction terminée : 0 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 17:57:16] ⚠️ Articles échoués : 1 (voir log pour détails)
+[2025-10-24 17:57:16] Durée totale : 15.0s
+[2025-10-24 18:01:19] Données chargées : type=<class 'dict'>
+[2025-10-24 18:01:19] Articles à traiter : 135
+[2025-10-24 18:01:19] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 18:01:19] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 18:01:19] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 18:01:20] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 18:01:26] FAIL (playwright_no_content) #1
+[2025-10-24 18:01:27] ✅ Extraction terminée : 0 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 18:01:27] ⚠️ Articles échoués : 1 (voir log pour détails)
+[2025-10-24 18:01:27] Durée totale : 7.7s
+[2025-10-24 18:03:04] Données chargées : type=<class 'dict'>
+[2025-10-24 18:03:04] Articles à traiter : 135
+[2025-10-24 18:03:04] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 18:03:04] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 18:03:04] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 18:03:04] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 18:03:10] FAIL (playwright_no_content) #1
+[2025-10-24 18:03:11] ✅ Extraction terminée : 0 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 18:03:11] ⚠️ Articles échoués : 1 (voir log pour détails)
+[2025-10-24 18:03:11] Durée totale : 7.3s
+[2025-10-24 18:05:22] Données chargées : type=<class 'dict'>
+[2025-10-24 18:05:22] Articles à traiter : 135
+[2025-10-24 18:05:22] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 18:05:22] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 18:05:22] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlI
+[2025-10-24 18:05:23] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 18:05:29] FAIL (playwright_no_content) #1
+[2025-10-24 18:05:30] ✅ Extraction terminée : 0 articles sauvés -> D:\trading\News Last 48H\KMCO_out\articles_full.json
+[2025-10-24 18:05:30] ⚠️ Articles échoués : 1 (voir log pour détails)
+[2025-10-24 18:05:30] Durée totale : 7.3s
+[2025-10-24 18:27:34] Données chargées : type=<class 'dict'>
+[2025-10-24 18:27:34] Articles à traiter : 135
+[2025-10-24 18:27:34] Ancien fichier D:\trading\News Last 48H\KMCO_out\articles_full.json supprimé (REMOVE_OLD_OUTPUT=True).
+[2025-10-24 18:27:34] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 18:27:34] [1/135] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlIyYncxcTZXb2hQclRrQmFnRC1MZ3hEN0l6SEQyVWZ
+[2025-10-24 18:27:35] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 18:27:42] FAIL (playwright_no_content) #1
+[2025-10-24 18:27:42] [2/135] Try requests -> https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWUtT1Y5UzZFYlBpQnZjdDMxWGRzeDhhUUo3NU1NZlN1UHF5cDhpWVA4MEQ3SWxOcFBqVzI2c21zdXVDWWZCSndReVo2UE5KQUNYTDFRS3B
+[2025-10-24 18:27:43] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 18:27:47] FAIL (playwright_no_content) #2
+[2025-10-24 18:27:47] [3/135] Try requests -> https://news.google.com/rss/articles/CBMingFBVV95cUxNX1VkTlI3ck5QZDNBQlpsLTZPa0lYUWxlVHNmODd5ZjMxRThlMklpd2FmVVZlaE5oaTZtUnNDMTRrTFdNUnA4clRvLW9BaDZIY2NlcDVfenl
+[2025-10-24 18:27:48] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 18:38:07] Données chargées : type=<class 'dict'>
+[2025-10-24 18:38:07] Articles à traiter : 103
+[2025-10-24 18:38:07] Pré-traitement URLs : 0 URLs Google News remplacées si trouvées.
+[2025-10-24 18:38:07] [1/103] Try requests -> https://news.google.com/rss/articles/CBMinwFBVV95cUxObFpqQnFLZ1dILXZKRGdhaTlKSTRTZ29JcktmeXdIYUtaOHNQR2FXZjZLdlgwakc1T3lyNlNfMlh3S0VRT0NfeURkNzQ3bWF3TGU2UGdKWjl
+[2025-10-24 18:38:08] Fallback Playwright for #1 (reason: consent_block)
+[2025-10-24 18:38:14] FAIL (playwright_no_content) #1
+[2025-10-24 18:38:15] [2/103] Try requests -> https://news.google.com/rss/articles/CBMi4AFBVV95cUxObl9XYkYyblZndnJ4UDZ4dDVtTnF0MGlOWkVFMFR6VXFGQ0RSckwwMnVPM1JtVlMxeFBYVXdXbHVxeVVvSlhNQWhrSUxlT3RxSzVDWWFDRTV
+[2025-10-24 18:38:16] Fallback Playwright for #2 (reason: consent_block)
+[2025-10-24 18:38:20] FAIL (playwright_no_content) #2
+[2025-10-24 18:38:20] [3/103] Try requests -> https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlIyYncxcTZXb2hQclRrQmFnRC1MZ3hEN0l6SEQyVWZ
+[2025-10-24 18:38:21] Fallback Playwright for #3 (reason: consent_block)
+[2025-10-24 18:38:25] FAIL (playwright_no_content) #3
+[2025-10-24 18:38:26] [4/103] Try requests -> https://news.google.com/rss/articles/CBMirwFBVV95cUxORlhIV0NKVjJZYm9VOHZRekVxUHhmRGYzYWFTVDFyN2JvdDVVQ0Q0Z0kzRkZlS0V0ZjRXMlo1SkE3WHp1SllyRzRtVWxRWkhEWWFOMTF2NFl
+[2025-10-24 18:38:26] Fallback Playwright for #4 (reason: consent_block)
+[2025-10-24 18:38:30] FAIL (playwright_no_content) #4
+[2025-10-24 18:38:31] [5/103] Try requests -> https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUY4ZmRuSnZGVEY1UUZrNlAtNFMtVVJtcjY4VDRiMWtvdDdzaTloTUhtTjlZM3lFLU16cVVZeDNmMUJ2T24yZzUyUm5YU0VvOWUtaDFFa2s

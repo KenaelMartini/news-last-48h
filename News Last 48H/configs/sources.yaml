@@ -1,0 +1,38 @@
+# Liste de flux. Mets tout ce que tu veux ici, le script gère les 401/403/404 et bascule vers Google News quand il peut.
+rss:
+  # Reuters (souvent 401/403) → fallback géré par code
+  - https://www.reuters.com/rssFeed/businessNews
+  - https://www.reuters.com/rssFeed/marketsNews
+  - https://www.reuters.com/rssFeed/worldNews
+  - https://www.reuters.com/rssFeed/economicNews
+  - https://www.reuters.com/rssFeed/topNews
+  - https://feeds.reuters.com/reuters/africa
+  - https://feeds.reuters.com/reuters/asia
+  - https://feeds.reuters.com/reuters/europe
+  - https://feeds.reuters.com/reuters/americas
+  - https://feeds.reuters.com/reuters/commoditiesNews
+  - https://feeds.reuters.com/reuters/USmarkets
+  - https://feeds.reuters.com/reuters/globalmarketsNews
+  - https://feeds.reuters.com/reuters/bondsNews
+  - https://feeds.reuters.com/reuters/forexNews
+  - https://feeds.reuters.com/reuters/fundsNews
+
+  # Banques centrales (leurs RSS changent tout le temps, fallback GN géré)
+  - https://www.ecb.europa.eu/press/pr/date/rss.en.html
+  - https://www.bankofengland.co.uk/news/news-archive?NewsTypes=rss
+  - https://www.rba.gov.au/rss/rss.xml
+  - https://www.boj.or.jp/en/rss/whatsnew_e.xml
+  - https://www.bankofcanada.ca/feeds/press-releases/
+  - https://www.snb.ch/en/rss
+  - https://www.rbnz.govt.nz/feeds/media-releases
+
+  # Vos feeds "Investinglive" (ceux qui vous donnaient du volume)
+  - https://investinglive.com/rss/breaking-news.xml
+  - https://investinglive.com/rss/breaking-news-feed.xml
+  - https://investinglive.com/rss/breaking-orders.xml
+  - https://investinglive.com/rss/breaking-centralbanks.xml
+  - https://investinglive.com/rss/breaking-technical-analysis.xml
+
+  # Autres, à ta guise...
+  # - https://www.imf.org/external/what-is-their-feed  # l’IMF timeoute souvent, le code gère
+  # - https://think.ing.com/feeds/rss/                # 404 fréquent, pas grave
