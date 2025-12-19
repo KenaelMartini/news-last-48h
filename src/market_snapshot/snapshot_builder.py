@@ -9,17 +9,19 @@ import requests
 import csv
 import io
 
+from .providers.fear_greed_finhacker import (
+    fetch_fear_greed_value, append_fg_history, load_fg_history, pct_change_from
+)
 
 # =========================
 # STOOQ CONFIG
 # =========================
 
-STOOQ_QUOTE_BASE = "https://stooq.com/q/l/"   # intraday quote CSV, NO HEADER
-STOOQ_DAILY_BASE = "https://stooq.com/q/d/l/" # daily history CSV, HAS HEADER
+STOOQ_QUOTE_BASE = "https://stooq.com/q/l/"    # intraday quote CSV, NO HEADER
+STOOQ_DAILY_BASE = "https://stooq.com/q/d/l/"  # daily history CSV, HAS HEADER
 
 DEFAULT_TIMEOUT = 8
 DEFAULT_RETRIES = 2
-
 
 # =========================
 # DESK UNIVERSE (STRICT)
@@ -51,9 +53,8 @@ RATES_FUT_SYMBOLS = {
 RISK_SYMBOLS_DAILY = {
     "SPX": "^spx",
     "VIX_FUT": "VI.F",
-    "FEAR_GREED": None,
+    "FEAR_GREED": None,  # handled by finhacker provider, not stooq
 }
-
 
 # =========================
 # UTILS
@@ -63,12 +64,11 @@ def _utc_now() -> datetime:
     return datetime.now(timezone.utc).replace(microsecond=0)
 
 def _utc_now_iso() -> str:
-    return _utc_now().isoformat()
+    return _utc_now().isoformat().replace("+00:00", "Z")
 
 def _is_probably_html(text: str) -> bool:
     t = (text or "").lstrip().lower()
     return t.startswith("<!doctype") or t.startswith("<html") or "<body" in t[:500]
-
 
 def _http_get(base: str, params: dict) -> Optional[str]:
     headers = {
@@ -93,14 +93,12 @@ def _http_get(base: str, params: dict) -> Optional[str]:
             time.sleep(0.2 * attempt)
     return None
 
-
 # =========================
 # STOOQ /q/l/ (INTRADAY QUOTE)
 # =========================
 
 def _fetch_stooq_quote_csv(symbol: str, interval: str = "5") -> Optional[str]:
     return _http_get(STOOQ_QUOTE_BASE, {"s": symbol, "i": interval})
-
 
 def _parse_vendor_ts_utc_from_quote_line(line: str) -> Optional[datetime]:
     parts = [p.strip() for p in (line or "").split(",")]
@@ -118,7 +116,6 @@ def _parse_vendor_ts_utc_from_quote_line(line: str) -> Optional[datetime]:
         )
     except Exception:
         return None
-
 
 def _last_price_and_vendor_ts(csv_text: str) -> Tuple[Optional[float], Optional[datetime]]:
     if not csv_text:
@@ -139,7 +136,6 @@ def _last_price_and_vendor_ts(csv_text: str) -> Tuple[Optional[float], Optional[
         return (price, vendor_ts)
 
     return (None, None)
-
 
 def _mk_point(price: Optional[float], vendor_ts_utc: Optional[datetime]) -> Dict[str, Any]:
     now = _utc_now()
@@ -168,7 +164,6 @@ def _mk_point(price: Optional[float], vendor_ts_utc: Optional[datetime]) -> Dict
         "change_pct": None,
     }
 
-
 # =========================
 # STOOQ /q/d/l/ (DAILY HISTORY)
 # =========================
@@ -184,23 +179,19 @@ def _parse_daily_closes(csv_text: str, max_rows: int = 200) -> List[Tuple[str, f
     if not csv_text:
         return []
 
-    # Normalize BOM
     csv_text = csv_text.lstrip("\ufeff")
 
     f = io.StringIO(csv_text)
     reader = csv.DictReader(f)
 
-    # Normalize fieldnames (lower + strip)
     if not reader.fieldnames:
         return []
 
     fields = {fn.lower().strip(): fn for fn in reader.fieldnames}
 
-    # Stooq daily usually: Date,Open,High,Low,Close,Volume
     date_key = fields.get("date")
     close_key = fields.get("close")
 
-    # Hard fail if no explicit Close column
     if not date_key or not close_key:
         return []
 
@@ -220,14 +211,10 @@ def _parse_daily_closes(csv_text: str, max_rows: int = 200) -> List[Tuple[str, f
     out.sort(key=lambda x: x[0])
     return out
 
-
-
-
 def _pct_change(new: Optional[float], old: Optional[float]) -> Optional[float]:
     if new is None or old is None or old == 0:
         return None
     return (new / old - 1.0) * 100.0
-
 
 def _risk_block_from_daily(symbol: Optional[str]) -> Dict[str, Any]:
     if not symbol:
@@ -270,8 +257,20 @@ def _risk_block_from_daily(symbol: Optional[str]) -> Dict[str, Any]:
 
     return {"price": None, "w1_pct": None, "m1_pct": None, "source": f"stooq:{symbol}"}
 
+def _fear_greed_block() -> Dict[str, Any]:
+    fg = fetch_fear_greed_value()
+    if not fg:
+        return {"price": None, "w1_pct": None, "m1_pct": None, "source": "finhacker:parse_fail"}
 
+    ts = _utc_now_iso()
+    append_fg_history(fg.value, ts)
 
+    hist = load_fg_history()
+    w1 = pct_change_from(hist, 7)
+    m1 = pct_change_from(hist, 30)
+
+    src = f"finhacker:{fg.asof_text or ''}".strip()
+    return {"price": fg.value, "w1_pct": w1, "m1_pct": m1, "source": src}
 
 # =========================
 # SNAPSHOT MODEL
@@ -293,7 +292,6 @@ class MarketSnapshot:
             "rates": self.rates,
             "risk": self.risk,
         }
-
 
 # =========================
 # SNAPSHOT BUILDER
@@ -323,7 +321,10 @@ def build_market_snapshot(interval: str = "5") -> MarketSnapshot:
     # Risk (daily): level + 1w/1m change
     risk_out: Dict[str, Dict[str, Any]] = {}
     for label, sym in RISK_SYMBOLS_DAILY.items():
-        risk_out[label] = _risk_block_from_daily(sym)
+        if label == "FEAR_GREED":
+            risk_out[label] = _fear_greed_block()
+        else:
+            risk_out[label] = _risk_block_from_daily(sym)
 
     return MarketSnapshot(
         asof_utc=asof,
@@ -332,7 +333,6 @@ def build_market_snapshot(interval: str = "5") -> MarketSnapshot:
         rates=rates_out,
         risk=risk_out,
     )
-
 
 def save_snapshot(snapshot: MarketSnapshot, path: str) -> None:
     import json

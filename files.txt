@@ -1,0 +1,332 @@
+.gitignore
+Dossier
+Fichier
+Fichiers
+Formatter/Input/AUD.NZD Long 03.12.2025.pdf
+Formatter/Output/AUD.NZD_Long_03.12.2025_KMCO.pdf
+Formatter/Output/EURNZD_Long_01.12.2025_KMCO.pdf
+Formatter/Output/EURNZD_Long_24.11.2025_KMCO.pdf
+Formatter/__init__.py
+Formatter/fonts/CrimsonPro-Bold.ttf
+Formatter/fonts/CrimsonPro-Regular.ttf
+Formatter/format_pdf_wrapper.py
+Formatter/wrap_all_pdfs.py
+KMCO_out/EU_check/KMCO_EU_Session_Check_2025-12-18.docx
+KMCO_out/EU_check/KMCO_EU_Session_Check_2025-12-18.pdf
+KMCO_out/EU_check/KMCO_EU_Session_Check_2025-12-19.docx
+KMCO_out/EU_check/KMCO_EU_Session_Check_2025-12-19.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-10-28 - Copie.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-10-28.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-10-29.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-10-30.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-10-31.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-03.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-04.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-06.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-07.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-10.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-11.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-12.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-13.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-14.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-17.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-18.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-19.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-20.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-21.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-24.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-25.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-26.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-27.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-11-28.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-01.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-02.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-03.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-04.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-05.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-08.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-10.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-15.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-16.pdf
+KMCO_out/European_Check/KMCO_European_Session_Check_2025-12-17.pdf
+KMCO_out/European_Check/report_european_check.md
+KMCO_out/European_Check/report_european_check_2025-12-01_16-45-15.docx
+KMCO_out/European_Check/report_european_check_2025-12-02_21-46-48.docx
+KMCO_out/European_Check/report_european_check_2025-12-03_16-55-29.docx
+KMCO_out/European_Check/report_european_check_2025-12-04_16-27-00.docx
+KMCO_out/European_Check/report_european_check_2025-12-05_17-59-52.docx
+KMCO_out/European_Check/report_european_check_2025-12-08_16-41-15.docx
+KMCO_out/European_Check/report_european_check_2025-12-10_12-43-09.docx
+KMCO_out/European_Check/report_european_check_2025-12-15_21-23-34.docx
+KMCO_out/European_Check/report_european_check_2025-12-16_20-52-47.docx
+KMCO_out/European_Check/report_european_check_2025-12-17_17-46-47.docx
+KMCO_out/Global_check/KMCO_Global_Check_2025-11-12.pdf
+KMCO_out/Global_check/KMCO_Global_Check_2025-11-18.pdf
+KMCO_out/Global_check/KMCO_Global_Check_2025-11-19.pdf
+KMCO_out/Global_check/KMCO_Global_Check_2025-11-24.pdf
+KMCO_out/Global_check/KMCO_Global_Check_2025-12-04.pdf
+KMCO_out/Global_check/KMCO_Global_Check_2025-12-08.pdf
+KMCO_out/Global_check/report_global_check.md
+KMCO_out/Global_check/report_global_check_2025-12-04_19-33-36.docx
+KMCO_out/Global_check/report_global_check_2025-12-08_05-07-06.docx
+KMCO_out/KMCO_Current_Macro_Check_2025-10-28.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-10-28.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-10-29.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-10-30.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-10-31.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-01.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-03.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-04.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-06.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-07.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-10.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-11.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-12.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-13.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-14.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-17.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-18.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-19.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-20.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-21.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-24.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-25.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-26.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-27.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-11-28.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-01.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-02.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-03.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-04.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-05.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-08.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-09.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-10.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-11.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-15.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-16.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-17.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-18.pdf
+KMCO_out/Overnight_check/KMCO_Overnight_Check_2025-12-19.pdf
+KMCO_out/Overnight_check/report_overnight.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-05_05-28-23.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-08_16-39-39.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-09_08-45-42.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-10_07-10-26.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-11_05-52-33.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-15_05-32-02.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-16_05-50-36.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-17_17-44-05.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-18_16-25-00.docx
+KMCO_out/Overnight_check/report_overnight_2025-12-19_15-19-45.docx
+KMCO_out/Overnight_check/report_overnight_check.md
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-10-28.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-10-29.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-10-30.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-10-31.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-03.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-04.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-06.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-07.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-11.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-12.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-13.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-15.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-17.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-18.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-19.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-20.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-21.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-24.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-25.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-26.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-11-27.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-01.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-02.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-03.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-04.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-08.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-09.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-10.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-11.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-12.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-15.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-16.pdf
+KMCO_out/Us_check/KMCO_US_Session_Check_2025-12-17.pdf
+KMCO_out/Us_check/report_us_check.docx
+KMCO_out/Us_check/report_us_check.md
+KMCO_out/articles.json
+KMCO_out/articles_grouped.json
+KMCO_out/desktop.ini
+KMCO_out/extract_log.txt
+KMCO_out/report_current_check.md
+KMCO_out/report_europeen_check.md
+KMCO_out/report_overnight.docx
+KMCO_out/report_overnight.md
+KMCO_out/snapshots/snapshot_EU_2025-12-18.json
+KMCO_out/snapshots/snapshot_EU_2025-12-19.json
+News Last 48H/Dossier
+News Last 48H/Fichier
+News Last 48H/KMCO_out/desktop.ini
+News Last 48H/KMCO_out/report.md
+"News Last 48H/V\303\251rifie"
+News Last 48H/configs/sources.yaml
+News Last 48H/in/articles.json
+News Last 48H/out/articles.json
+News Last 48H/out/report.html
+News Last 48H/out/report.md
+News Last 48H/run_report.bat
+News Last 48H/src/build/generate_report/Analysis-00.toc
+News Last 48H/src/build/generate_report/EXE-00.toc
+News Last 48H/src/build/generate_report/PKG-00.toc
+News Last 48H/src/build/generate_report/PYZ-00.pyz
+News Last 48H/src/build/generate_report/PYZ-00.toc
+News Last 48H/src/build/generate_report/base_library.zip
+News Last 48H/src/build/generate_report/generate_report.pkg
+News Last 48H/src/build/generate_report/warn-generate_report.txt
+News Last 48H/src/build/generate_report/xref-generate_report.html
+News Last 48H/src/build/news48_dump/Analysis-00.toc
+News Last 48H/src/build/news48_dump/EXE-00.toc
+News Last 48H/src/build/news48_dump/PKG-00.toc
+News Last 48H/src/build/news48_dump/PYZ-00.pyz
+News Last 48H/src/build/news48_dump/PYZ-00.toc
+News Last 48H/src/build/news48_dump/base_library.zip
+News Last 48H/src/build/news48_dump/news48_dump.pkg
+News Last 48H/src/build/news48_dump/warn-news48_dump.txt
+News Last 48H/src/build/news48_dump/xref-news48_dump.html
+News Last 48H/src/dist/generate_report.exe
+News Last 48H/src/dist/news48_dump.exe
+News Last 48H/src/generate_desk_report.py
+News Last 48H/src/generate_report.spec
+News Last 48H/src/news48_dump.py
+News Last 48H/src/news48_dump.spec
+News Last 48H/src/template_header.lua
+"V\303\251rifie"
+ai_core/__init__.py
+ai_core/ai_analysis.py
+ai_core/ai_european_macrocheck_core/ai_formatter_european.py
+ai_core/ai_european_macrocheck_core/ai_generate_european.py
+ai_core/ai_european_macrocheck_core/ai_summarizer_european.py
+ai_core/ai_global_macrocheck_core/__init__.py
+ai_core/ai_global_macrocheck_core/__pycache__
+ai_core/ai_global_macrocheck_core/ai_formatter_global.py
+ai_core/ai_global_macrocheck_core/ai_generate_global.py
+ai_core/ai_global_macrocheck_core/ai_summarizer_global.py
+ai_core/ai_overnight_core/__init__.py
+ai_core/ai_overnight_core/ai_formatter_overnight.py
+ai_core/ai_overnight_core/ai_generate_current_report.py
+ai_core/ai_overnight_core/ai_generate_overnight.py
+ai_core/ai_overnight_core/ai_summarizer_overnight.py
+ai_core/ai_us_macrocheck_core/ai_formatter_us.py
+ai_core/ai_us_macrocheck_core/ai_generate_us.py
+ai_core/ai_us_macrocheck_core/ai_summarizer_us.py
+ai_core/article_fulltext.py
+ai_core/browser_extract.py
+ai_core/classifier.py
+ai_core/export_pdf.py
+ai_core/intelligence/__init__.py
+ai_core/intelligence/contextual_numbers.py
+ai_core/intelligence/data_extraction.py
+ai_core/intelligence/fx_scoring.py
+ai_core/intelligence/macro_interpreter.py
+ai_core/intelligence/proxies_loader.py
+ai_core/intelligence/quant_bridge.py
+ai_core/intelligence/rate_regime.py
+ai_core/intelligence/risk_regime.py
+ai_core/macro_ai_engine.py
+ai_core/parser_report.py
+configs/keywords.yaml
+configs/kmco_config.yaml
+configs/prompts.yaml
+configs/proxies.yaml
+configs/risk_rules.yaml
+configs/sources.yaml
+configs/yield_rules.yaml
+in/articles.json
+kmco_pipeline/cache/nlp_article_cache.json
+models/build_macro_table.py
+models/generate_ideas_json.py
+models/generate_macro_ideas.py
+models/idea.py
+models/kmco_save.py
+models/signal.py
+out/KMCO_Global_Macro_AI_Report.txt
+out/KMCO_Global_Macro_Report_2025-10-27.pdf
+out/KMCO_Global_Macro_Report_2025-10-28.pdf
+out/KMCO_Global_Macro_Report_2025-10-31.pdf
+out/KMCO_Global_Macro_Report_2025-11-01.pdf
+out/KMCO_Global_Macro_Report_2025-11-09.pdf
+out/articles.json
+out/report.html
+out/report.md
+out/report_ai_analysis.txt
+run_report.bat
+src/ai/aggregate_currency_ai.py
+src/ai/blend_quant_ai.py
+src/ai/cache_macro_ai.py
+src/ai/macro_tag.py
+src/ai/nlp_article_scoring.py
+src/build/generate_report/Analysis-00.toc
+src/build/generate_report/EXE-00.toc
+src/build/generate_report/PKG-00.toc
+src/build/generate_report/PYZ-00.pyz
+src/build/generate_report/PYZ-00.toc
+src/build/generate_report/base_library.zip
+src/build/generate_report/generate_report.pkg
+src/build/generate_report/warn-generate_report.txt
+src/build/generate_report/xref-generate_report.html
+src/build/news48_dump/Analysis-00.toc
+src/build/news48_dump/EXE-00.toc
+src/build/news48_dump/PKG-00.toc
+src/build/news48_dump/PYZ-00.pyz
+src/build/news48_dump/PYZ-00.toc
+src/build/news48_dump/base_library.zip
+src/build/news48_dump/news48_dump.pkg
+src/build/news48_dump/warn-news48_dump.txt
+src/build/news48_dump/xref-news48_dump.html
+src/check_docx_integrity.py
+src/clean_docx_newlines.py
+src/clean_report_md.py
+src/dist/generate_report.exe
+src/dist/news48_dump.exe
+src/final_xml_clean.py
+src/generate_desk_report.py
+src/generate_desk_report_final.py
+src/generate_journal_report.py
+src/generate_report.spec
+src/generate_simple_clean_docx.py
+src/generators/build_signals.py
+src/generators/generate_macro_ideas.py
+src/generators/generate_signals_main.py
+src/generators/signal_output.py
+src/market_snapshot/providers/__init__.py
+src/market_snapshot/providers/fx_exchangerate.py
+src/market_snapshot/providers/stooq_csv.py
+src/market_snapshot/providers/stooq_fx.py
+src/market_snapshot/providers/stooq_quote.py
+src/market_snapshot/schema.py
+src/market_snapshot/snapshot_builder.py
+src/news48_dump.py
+src/news48_dump.spec
+src/overnight_check.py
+src/parsers/news_to_macro_tags.py
+src/parsers/parse_news_to_macrojson.py
+src/price_in/__init__.py
+src/price_in/calibration.py
+src/price_in/driver_pricein.py
+src/price_in/market_data.py
+src/price_in/price_inference.py
+src/price_in/reaction.py
+src/price_in_v3/__init__.py
+src/price_in_v3/evaluator.py
+src/price_in_v3/schema.py
+src/rebuild_full_docx.py
+src/repack_docx_zip.py
+src/repair_docx_word.py
+src/research/backtest_signals.py
+src/scan_illegal_chars.py
+src/template_header.lua
+src/word_resave_clean.py
+src/word_resave_msword.py
+test_window_eu.py
+tools/test_stooq_snapshot.py
