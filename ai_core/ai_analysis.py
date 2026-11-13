@@ -20,7 +20,7 @@ from ai_core.intelligence.contextual_numbers import collect_relevant_numbers
 # CONFIG
 # ======================================================
 
-os.environ["OPENAI_API_KEY"] = "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"
+# OpenAI credentials must come from an environment variable; never commit a token.
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 # Ensure project dir in path
